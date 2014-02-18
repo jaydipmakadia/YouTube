@@ -1,0 +1,940 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:app='http://purl.org/atom/app#'
+	xmlns:media='http://search.yahoo.com/mrss/' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/'
+	xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007'>
+	<id>http://gdata.youtube.com/feeds/api/standardfeeds/top_rated
+	</id>
+	<updated>2010-07-19T17:23:27.000-07:00
+	</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video' />
+	<title type='text'>Top Rated</title>
+	<logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif
+	</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com/browse?s=tr' />
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+		href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated' />
+	<link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml'
+		href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/batch' />
+	<link rel='self' type='application/atom+xml'
+		href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated?start-index=1&amp;max-results=25' />
+	<link rel='next' type='application/atom+xml'
+		href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated?start-index=26&amp;max-results=25' />
+	<author>
+		<name>YouTube</name>
+		<uri>http://www.youtube.com/</uri>
+	</author>
+	<generator version='2.0' uri='http://gdata.youtube.com/'>YouTube data API
+	</generator>
+	<openSearch:totalResults>100</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+	<entry>
+		<id>http://gdata.youtube.com/feeds/api/videos/JTwJetox_tU
+		</id>
+		<published>2010-03-22T18:06:15.000Z
+		</published>
+		<updated>2010-07-20T11:23:36.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://gdata.youtube.com/schemas/2007#video' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat'
+			term='Comedy' label='Comedy' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='chat' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='roulette' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='chatrt' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='chatroullete' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='chatroulette.com' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='piano' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='pianist' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='music' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='improv' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='improvisation' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='funny' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='comedy' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='humor' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='humour' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='freestyle' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='freestyling' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='merton' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='PianoChatImprov' />
+		<title type='text'>Chat Roulette Funny Piano Improv #1</title>
+		<content type='text'>Your host, Merton, freestyling in real-time
+			with random strangers on Chat Roulette.
+			***********************
+			This is a new, edited version of the original Video #1. I had to make
+			some changes in order for YouTube to be happy with it.
+
+			My apologies to all of the subscribers for being summoned here just to
+			see a repeat post, but there was no way around it.
+
+			For the record, the original video had 4,238,658 Views. At the time of
+			its demise, it was the Top-Rated YouTube Video of All Time. No shit.
+
+			I will be posting Video #2 very soon, and thank you all so much for
+			your support.
+			***********************</content>
+		<link rel='alternate' type='text/html'
+			href='http://www.youtube.com/watch?v=JTwJetox_tU&amp;feature=youtube_gdata' />
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related'
+			type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/JTwJetox_tU/related' />
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+			href='http://m.youtube.com/details?v=JTwJetox_tU' />
+		<link rel='self' type='application/atom+xml'
+			href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/JTwJetox_tU' />
+		<author>
+			<name>PianoChatImprov</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/pianochatimprov
+			</uri>
+		</author>
+		<gd:comments>
+			<gd:feedLink
+				href='http://gdata.youtube.com/feeds/api/videos/JTwJetox_tU/comments'
+				countHint='11081' />
+		</gd:comments>
+		<media:group>
+			<media:category label='Comedy'
+				scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category>
+			<media:content
+				url='http://www.youtube.com/v/JTwJetox_tU?f=standard&amp;app=youtube_gdata'
+				type='application/x-shockwave-flash' medium='video' isDefault='true'
+				expression='full' duration='329' yt:format='5' />
+			<media:content
+				url='rtsp://v3.cache2.c.youtube.com/CiQLENy73wIaGwnV_jHaegk8JRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp'
+				type='video/3gpp' medium='video' expression='full' duration='329'
+				yt:format='1' />
+			<media:content
+				url='rtsp://v8.cache1.c.youtube.com/CiQLENy73wIaGwnV_jHaegk8JRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp'
+				type='video/3gpp' medium='video' expression='full' duration='329'
+				yt:format='6' />
+			<media:description type='plain'>Your host, Merton,
+				freestyling in real-time with random strangers on Chat Roulette.
+				***********************
+				This is a new, edited version of the original Video #1. I had to make
+				some changes in order for YouTube to be happy with it.
+
+				My apologies to all of the subscribers for being summoned here just to
+				see a repeat post, but there was no way around it.
+
+				For the record, the original video had 4,238,658 Views. At the time of
+				its demise, it was the Top-Rated YouTube Video of All Time. No shit.
+
+				I will be posting Video #2 very soon, and thank you all so much for
+				your support.
+				***********************</media:description>
+			<media:keywords>chat, roulette, chatrt, chatroullete,
+				chatroulette.com, piano, pianist, music, improv, improvisation,
+				funny, comedy, humor, humour, freestyle, freestyling, merton,
+				PianoChatImprov</media:keywords>
+			<media:player
+				url='http://www.youtube.com/watch?v=JTwJetox_tU&amp;feature=youtube_gdata' />
+			<media:thumbnail url='http://i.ytimg.com/vi/JTwJetox_tU/2.jpg'
+				height='90' width='120' time='00:02:44.500' />
+			<media:thumbnail url='http://i.ytimg.com/vi/JTwJetox_tU/1.jpg'
+				height='90' width='120' time='00:01:22.250' />
+			<media:thumbnail url='http://i.ytimg.com/vi/JTwJetox_tU/3.jpg'
+				height='90' width='120' time='00:04:06.750' />
+			<media:thumbnail url='http://i.ytimg.com/vi/JTwJetox_tU/0.jpg'
+				height='240' width='320' time='00:02:44.500' />
+			<media:title type='plain'>Chat Roulette Funny Piano Improv #1
+			</media:title>
+			<yt:duration seconds='329' />
+		</media:group>
+		<gd:rating average='4.973702' max='5' min='1' numRaters='69093'
+			rel='http://schemas.google.com/g/2005#overall' />
+		<yt:statistics favoriteCount='61030' viewCount='5536740' />
+	</entry>
+	<entry>
+		<id>http://gdata.youtube.com/feeds/api/videos/5pidokakU4I
+		</id>
+		<published>2009-12-10T12:37:58.000Z
+		</published>
+		<updated>2010-07-20T11:30:16.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://gdata.youtube.com/schemas/2007#video' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat'
+			term='Comedy' label='Comedy' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='Comedy' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='Stand' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='Up' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='Sketch' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='Funny' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='Comedian' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='Song' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='Music' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='Parody' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='Cover' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='Australian' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='Axis' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='Awesome' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='Four' />
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat'
+			term='Chord' />
+		<title type='text'>Axis of Awesome - 4 Four Chord Song (with song
+			titles)</title>
+		<content type='text'>Australian comedy group 'Axis Of
+			Awesome' perform a sketch from the 2009 Melbourne International
+			Comedy Festival. Footage courtesy of Network Ten Australia.
+
+			See http://www.axisofawesome.net/ for more details of the comedy trio
+			including Jordan Raskopoulos, Lee Naimo, &amp; Benny Davis.</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=5pidokakU4I&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/5pidokakU4I/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/5pidokakU4I/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=5pidokakU4I'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/5pidokakU4I'/><author><name>random804</name><uri>http://gdata.youtube.com/feeds/api/users/random804</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/5pidokakU4I/comments' countHint='5570'/></gd:comments><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='http://www.youtube.com/v/5pidokakU4I?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='331' yt:format='5'/><media:content url='rtsp://v4.cache1.c.youtube.com/CiQLENy73wIaGwmCU6RGop2Y5hMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='331' yt:format='1'/><media:content url='rtsp://v1.cache5.c.youtube.com/CiQLENy73wIaGwmCU6RGop2Y5hMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='331' yt:format='6'/><media:description type='plain'>Australian comedy group 'Axis Of Awesome' perform a sketch from the 2009 Melbourne International Comedy Festival. Footage courtesy of Network Ten Australia. 
+
+See http://www.axisofawesome.net/ for more details of the comedy trio including Jordan Raskopoulos, Lee Naimo, &amp; Benny Davis.</media:description><media:keywords>Comedy, Stand, Up, Sketch, Funny, Comedian, Song, Music, Parody, Cover, Australian, Axis, Awesome, Four, Chord</media:keywords><media:player url='http://www.youtube.com/watch?v=5pidokakU4I&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/5pidokakU4I/2.jpg' height='90' width='120' time='00:02:45.500'/><media:thumbnail url='http://i.ytimg.com/vi/5pidokakU4I/1.jpg' height='90' width='120' time='00:01:22.750'/><media:thumbnail url='http://i.ytimg.com/vi/5pidokakU4I/3.jpg' height='90' width='120' time='00:04:08.250'/><media:thumbnail url='http://i.ytimg.com/vi/5pidokakU4I/0.jpg' height='240' width='320' time='00:02:45.500'/><media:title type='plain'>Axis of Awesome - 4 Four Chord Song (with song titles)</media:title><yt:duration seconds='331'/></media:group><gd:rating average='4.973491' max='5' min='1' numRaters='44740' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='72084' viewCount='5205337'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/qciVXUHTN10</id><published>2010-01-19T12:15:55.000Z</published><updated>2010-07-20T11:12:39.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='beardyman'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='beardy'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='man'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kaoss'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pad'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='edinburgh'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='scotland'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kp3'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='suggestions'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='improv'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='improvisation'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='looping'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='beatbox'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='beat'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='box'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='beatboxing'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='festival'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='2009'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='jfb'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ed'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='solo'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='chris'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cairns'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='hopkinson'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='rc50'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='roland'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='korg'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='aphex'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='twin'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='baby'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='bees'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='heckler'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shlomo'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='faith'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sfx'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pablo'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='francisco'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='eddie'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='murphy'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='izzard'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='jay'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='foreman'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shambles'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='comedy'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='music'/><title type='text'>Beardyman - Live in the Underbelly: The Full show</title><content type='text'>Edinburgh Comedy Festival 2009...
+
+I the great and powerless Beardyman did performing a solo shows. The best solo shows in the worlds evergreen. Suggestions were given by the crowd. . i had no script. . . or did I? NO!!!! NO I DIDN'T !!!!!!
+
+...and welcome back. The Bellylaugh isn't not the name of the room in the underbelly in which i wasn't not playing. The Underbelly used to be the bank vaults for the bank of Scotland. . that's why it looks like i'm playing in an air-raid shelter. . . or is it because this is a video from the post-apocolyptic future and actually i'm entertaining the troops. . .you decide. . . 
+
+over and in. . 
+
+Beardyman. . 
+
+or did they?</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=qciVXUHTN10&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/qciVXUHTN10/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/qciVXUHTN10/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=qciVXUHTN10'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/qciVXUHTN10'/><author><name>beardyman</name><uri>http://gdata.youtube.com/feeds/api/users/beardyman</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/qciVXUHTN10/comments' countHint='1704'/></gd:comments><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='http://www.youtube.com/v/qciVXUHTN10?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='3517' yt:format='5'/><media:content url='rtsp://v8.cache6.c.youtube.com/CiQLENy73wIaGwldN9NBXZXIqRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='3517' yt:format='1'/><media:content url='rtsp://v2.cache1.c.youtube.com/CiQLENy73wIaGwldN9NBXZXIqRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='3517' yt:format='6'/><media:description type='plain'>Edinburgh Comedy Festival 2009...
+
+I the great and powerless Beardyman did performing a solo shows. The best solo shows in the worlds evergreen. Suggestions were given by the crowd. . i had no script. . . or did I? NO!!!! NO I DIDN'T !!!!!!
+
+...and welcome back. The Bellylaugh isn't not the name of the room in the underbelly in which i wasn't not playing. The Underbelly used to be the bank vaults for the bank of Scotland. . that's why it looks like i'm playing in an air-raid shelter. . . or is it because this is a video from the post-apocolyptic future and actually i'm entertaining the troops. . .you decide. . . 
+
+over and in. . 
+
+Beardyman. . 
+
+or did they?</media:description><media:keywords>beardyman, beardy, man, kaoss, pad, edinburgh, scotland, kp3, suggestions, improv, improvisation, looping, beatbox, beat, box, beatboxing, festival, 2009, jfb, ed, solo, chris, cairns, hopkinson, rc50, roland, korg, aphex, twin, baby, bees, heckler, shlomo, faith, sfx, pablo, francisco, eddie, murphy, izzard, jay, foreman, shambles, comedy, music</media:keywords><media:player url='http://www.youtube.com/watch?v=qciVXUHTN10&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/qciVXUHTN10/2.jpg' height='90' width='120' time='00:29:18.500'/><media:thumbnail url='http://i.ytimg.com/vi/qciVXUHTN10/1.jpg' height='90' width='120' time='00:14:39.250'/><media:thumbnail url='http://i.ytimg.com/vi/qciVXUHTN10/3.jpg' height='90' width='120' time='00:43:57.750'/><media:thumbnail url='http://i.ytimg.com/vi/qciVXUHTN10/0.jpg' height='240' width='320' time='00:29:18.500'/><media:title type='plain'>Beardyman - Live in the Underbelly: The Full show</media:title><yt:duration seconds='3517'/></media:group><gd:rating average='4.975027' max='5' min='1' numRaters='7368' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='12377' viewCount='697774'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/HjGrHBpfqCo</id><published>2010-04-01T06:24:34.000Z</published><updated>2010-07-20T10:55:29.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Film' label='Film &amp; Animation'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='team'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='fortress'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='law'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='abiding'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='citizen'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='engineer'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='spy'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='heavy'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='scout'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='red'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='blue'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='trailer'/><title type='text'>Team Fortress 2 - Law Abiding Engineer</title><content type='text'>EDIT: Full Quality Version available
+http://www.filefactory.com/file/b0ff51f/n/TF2LAC_avi
+http://ablanknotebook.com/miscfiles/tf2_law_abiding_engineer.avi
+http://www.adkgamers.com/download.php?view.7
+http://www.sendspace.com/file/e02nyp
+***
+I proudly present my biggest animating/compositing project I ever did and now it is partially about TF2. Let's say, it is for the upcoming engineer update.
+You probably have heard of or seen the "Law abiding citizen" movie (better if not). So what if our tf2 heroes were included in the cast?
+Just imagine: the war is over, everybody has their own lives, engineer sits at home...
+P.S. I FRICKIN HATE that YouTube makes video wider than it really is.
+P.P.S. Started on February 11, finished on March 29</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=HjGrHBpfqCo&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/HjGrHBpfqCo/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/HjGrHBpfqCo/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=HjGrHBpfqCo'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/HjGrHBpfqCo'/><author><name>TrueOneMoreUser</name><uri>http://gdata.youtube.com/feeds/api/users/trueonemoreuser</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/HjGrHBpfqCo/comments' countHint='8841'/></gd:comments><media:group><media:category label='Film &amp; Animation' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Film</media:category><media:content url='http://www.youtube.com/v/HjGrHBpfqCo?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='161' yt:format='5'/><media:content url='rtsp://v5.cache4.c.youtube.com/CiQLENy73wIaGwkqqF8aHKsxHhMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='161' yt:format='1'/><media:content url='rtsp://v1.cache8.c.youtube.com/CiQLENy73wIaGwkqqF8aHKsxHhMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='161' yt:format='6'/><media:description type='plain'>EDIT: Full Quality Version available
+http://www.filefactory.com/file/b0ff51f/n/TF2LAC_avi
+http://ablanknotebook.com/miscfiles/tf2_law_abiding_engineer.avi
+http://www.adkgamers.com/download.php?view.7
+http://www.sendspace.com/file/e02nyp
+***
+I proudly present my biggest animating/compositing project I ever did and now it is partially about TF2. Let's say, it is for the upcoming engineer update.
+You probably have heard of or seen the "Law abiding citizen" movie (better if not). So what if our tf2 heroes were included in the cast?
+Just imagine: the war is over, everybody has their own lives, engineer sits at home...
+P.S. I FRICKIN HATE that YouTube makes video wider than it really is.
+P.P.S. Started on February 11, finished on March 29</media:description><media:keywords>team, fortress, law, abiding, citizen, engineer, spy, heavy, scout, red, blue, trailer</media:keywords><media:player url='http://www.youtube.com/watch?v=HjGrHBpfqCo&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/HjGrHBpfqCo/2.jpg' height='90' width='120' time='00:01:20.500'/><media:thumbnail url='http://i.ytimg.com/vi/HjGrHBpfqCo/1.jpg' height='90' width='120' time='00:00:40.250'/><media:thumbnail url='http://i.ytimg.com/vi/HjGrHBpfqCo/3.jpg' height='90' width='120' time='00:02:00.750'/><media:thumbnail url='http://i.ytimg.com/vi/HjGrHBpfqCo/0.jpg' height='240' width='320' time='00:01:20.500'/><media:title type='plain'>Team Fortress 2 - Law Abiding Engineer</media:title><yt:duration seconds='161'/></media:group><gd:rating average='4.9731994' max='5' min='1' numRaters='36566' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='35924' viewCount='1582303'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/cNvJy0zoXOY</id><published>2010-05-01T02:21:25.000Z</published><updated>2010-07-20T11:35:49.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Sports' label='Sports'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Tumbling'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Gymnastics'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Freerunning'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Stunts'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Derby City Gymnastics Club'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='parkour'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='PK'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='l&apos;art'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='du'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='déplacement'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='traceur'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='traceuse'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='équilibre'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='de'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='chat'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='passe'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='muraille'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Lâché'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Franchissement'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='underbar'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cat'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='balance'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Roulade'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='roll'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Saut'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='précision'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='funny'/><title type='text'>Damien Walters 2010</title><content type='text'>Training and new things early in 2010
+
+
+
+
+
+
+
+
+
+Tumbling Gymnastics Freerunning Stunts "Derby City Gymnastics Club" parkour PK l'art du déplacement traceur traceuse équilibre de chat passe muraille Lâché Franchissement underbar cat balance Roulade roll Saut précision funny</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=cNvJy0zoXOY&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/cNvJy0zoXOY/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/cNvJy0zoXOY/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=cNvJy0zoXOY'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/cNvJy0zoXOY'/><author><name>damienwalters</name><uri>http://gdata.youtube.com/feeds/api/users/damienwalters</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/cNvJy0zoXOY/comments' countHint='8615'/></gd:comments><yt:location>england</yt:location><media:group><media:category label='Sports' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Sports</media:category><media:content url='http://www.youtube.com/v/cNvJy0zoXOY?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='164' yt:format='5'/><media:content url='rtsp://v7.cache7.c.youtube.com/CiQLENy73wIaGwnmXOhMy8nbcBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='164' yt:format='1'/><media:content url='rtsp://v3.cache5.c.youtube.com/CiQLENy73wIaGwnmXOhMy8nbcBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='164' yt:format='6'/><media:description type='plain'>Training and new things early in 2010
+
+
+
+
+
+
+
+
+
+Tumbling Gymnastics Freerunning Stunts "Derby City Gymnastics Club" parkour PK l'art du déplacement traceur traceuse équilibre de chat passe muraille Lâché Franchissement underbar cat balance Roulade roll Saut précision funny</media:description><media:keywords>Tumbling, Gymnastics, Freerunning, Stunts, Derby City Gymnastics Club, parkour, PK, l'art, du, déplacement, traceur, traceuse, équilibre, de, chat, passe, muraille, Lâché, Franchissement, underbar, cat, balance, Roulade, roll, Saut, précision, funny</media:keywords><media:player url='http://www.youtube.com/watch?v=cNvJy0zoXOY&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/cNvJy0zoXOY/2.jpg' height='90' width='120' time='00:01:22'/><media:thumbnail url='http://i.ytimg.com/vi/cNvJy0zoXOY/1.jpg' height='90' width='120' time='00:00:41'/><media:thumbnail url='http://i.ytimg.com/vi/cNvJy0zoXOY/3.jpg' height='90' width='120' time='00:02:03'/><media:thumbnail url='http://i.ytimg.com/vi/cNvJy0zoXOY/0.jpg' height='240' width='320' time='00:01:22'/><media:title type='plain'>Damien Walters 2010</media:title><yt:duration seconds='164'/></media:group><gd:rating average='4.9731083' max='5' min='1' numRaters='30009' rel='http://schemas.google.com/g/2005#overall'/><yt:recorded>2010-06-29</yt:recorded><yt:statistics favoriteCount='48060' viewCount='4444379'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/Ikw440dOuVA</id><published>2010-07-18T21:53:21.000Z</published><updated>2010-07-20T11:48:34.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kevjumba'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='jumbafund'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dad'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='lady'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='gaga'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='bad'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='romance'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kevin'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sings'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='donation'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='funemployed'/><title type='text'>Hello Internet! (Ep.24)</title><content type='text'>Start watching Funemployed!
+http://www.youtube.com/funemployed
+
+Go here to suggest a charity!
+http://www.kevjumba.com/jumbafund/
+
+Follow me on Twitter:
+http://www.twitter.com/kevjumba
+Join my Facebook:
+http://www.facebook.com/kevjumba</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Ikw440dOuVA&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Ikw440dOuVA/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Ikw440dOuVA/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Ikw440dOuVA'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/Ikw440dOuVA'/><author><name>JumbaFund</name><uri>http://gdata.youtube.com/feeds/api/users/jumbafund</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/Ikw440dOuVA/comments' countHint='5143'/></gd:comments><media:group><media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People</media:category><media:content url='http://www.youtube.com/v/Ikw440dOuVA?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='147' yt:format='5'/><media:content url='rtsp://v4.cache1.c.youtube.com/CiQLENy73wIaGwlQuU5H4zhMIhMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='147' yt:format='1'/><media:content url='rtsp://v8.cache8.c.youtube.com/CiQLENy73wIaGwlQuU5H4zhMIhMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='147' yt:format='6'/><media:description type='plain'>Start watching Funemployed!
+http://www.youtube.com/funemployed
+
+Go here to suggest a charity!
+http://www.kevjumba.com/jumbafund/
+
+Follow me on Twitter:
+http://www.twitter.com/kevjumba
+Join my Facebook:
+http://www.facebook.com/kevjumba</media:description><media:keywords>kevjumba, jumbafund, dad, lady, gaga, bad, romance, kevin, sings, donation, funemployed</media:keywords><media:player url='http://www.youtube.com/watch?v=Ikw440dOuVA&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/Ikw440dOuVA/2.jpg' height='90' width='120' time='00:01:13.500'/><media:thumbnail url='http://i.ytimg.com/vi/Ikw440dOuVA/1.jpg' height='90' width='120' time='00:00:36.750'/><media:thumbnail url='http://i.ytimg.com/vi/Ikw440dOuVA/3.jpg' height='90' width='120' time='00:01:50.250'/><media:thumbnail url='http://i.ytimg.com/vi/Ikw440dOuVA/0.jpg' height='240' width='320' time='00:01:13.500'/><media:title type='plain'>Hello Internet! (Ep.24)</media:title><yt:duration seconds='147'/></media:group><gd:rating average='4.9687757' max='5' min='1' numRaters='14636' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='891' viewCount='219555'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/sY9PeJOZpeA</id><published>2010-05-26T14:50:53.000Z</published><updated>2010-07-20T10:41:53.000Z</updated><app:control><yt:state name='restricted' reasonCode='limitedSyndication'>Syndication of this video was restricted by its owner.</yt:state></app:control><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ozzy'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='music'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='scream'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='wax'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='museum'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='tourists'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='scare'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='scary'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='joke'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='spoof'/><title type='text'>Ozzy Scare at Madame Tussauds Wax Museum</title><content type='text'>In light of Ozzy's new album "Scream" out 6/22, Ozzy decided to have some fun and make people scream by scaring unsuspecting tourists at the wax museum, Madame Tussauds New York in Times Square. Preorder SCREAM now http://www.ozzy.com/</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=sY9PeJOZpeA&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/sY9PeJOZpeA/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/sY9PeJOZpeA/related'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/sY9PeJOZpeA'/><author><name>ozzyosbourneTV</name><uri>http://gdata.youtube.com/feeds/api/users/ozzyosbournetv</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/sY9PeJOZpeA/comments' countHint='2344'/></gd:comments><media:group><media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Entertainment</media:category><media:content url='http://www.youtube.com/v/sY9PeJOZpeA?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='83' yt:format='5'/><media:description type='plain'>In light of Ozzy's new album "Scream" out 6/22, Ozzy decided to have some fun and make people scream by scaring unsuspecting tourists at the wax museum, Madame Tussauds New York in Times Square. Preorder SCREAM now http://www.ozzy.com/</media:description><media:keywords>ozzy, music, scream, wax, museum, tourists, scare, scary, joke, spoof</media:keywords><media:player url='http://www.youtube.com/watch?v=sY9PeJOZpeA&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/sY9PeJOZpeA/2.jpg' height='90' width='120' time='00:00:41.500'/><media:thumbnail url='http://i.ytimg.com/vi/sY9PeJOZpeA/1.jpg' height='90' width='120' time='00:00:20.750'/><media:thumbnail url='http://i.ytimg.com/vi/sY9PeJOZpeA/3.jpg' height='90' width='120' time='00:01:02.250'/><media:thumbnail url='http://i.ytimg.com/vi/sY9PeJOZpeA/0.jpg' height='240' width='320' time='00:00:41.500'/><media:title type='plain'>Ozzy Scare at Madame Tussauds Wax Museum</media:title><yt:duration seconds='83'/></media:group><gd:rating average='4.97258' max='5' min='1' numRaters='10795' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='12036' viewCount='1999471'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/u6XAPnuFjJc</id><published>2010-04-01T11:42:05.000Z</published><updated>2010-07-20T10:55:32.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='motivation'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='workplace'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='career'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='illustration'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='design'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='animation'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='life coach'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='altruism'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='popular psychology'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sociology'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='rsa'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='the rsa'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='royal society of arts'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='rsa animate'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='overworked'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='unmotivated'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='drive'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dan pink'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dan pink drive'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='RSAnimate'/><title type='text'>RSA Animate - Drive: The surprising truth about what motivates us</title><content type='text'>This lively RSA Animate, adapted from Dan Pink's talk at the RSA, illustrates the hidden truths behind what really motivates us at home and in the workplace.
+www.theRSA.org</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=u6XAPnuFjJc&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/u6XAPnuFjJc/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/u6XAPnuFjJc/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=u6XAPnuFjJc'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/u6XAPnuFjJc'/><author><name>theRSAorg</name><uri>http://gdata.youtube.com/feeds/api/users/thersaorg</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/u6XAPnuFjJc/comments' countHint='1594'/></gd:comments><media:group><media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/u6XAPnuFjJc?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='648' yt:format='5'/><media:content url='rtsp://v1.cache4.c.youtube.com/CiQLENy73wIaGwmXjIV7PsCluxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='648' yt:format='1'/><media:content url='rtsp://v3.cache8.c.youtube.com/CiQLENy73wIaGwmXjIV7PsCluxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='648' yt:format='6'/><media:description type='plain'>This lively RSA Animate, adapted from Dan Pink's talk at the RSA, illustrates the hidden truths behind what really motivates us at home and in the workplace.
+www.theRSA.org</media:description><media:keywords>motivation, workplace, career, illustration, design, animation, life coach, altruism, popular psychology, sociology, rsa, the rsa, royal society of arts, rsa animate, overworked, unmotivated, drive, dan pink, dan pink drive, RSAnimate</media:keywords><media:player url='http://www.youtube.com/watch?v=u6XAPnuFjJc&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/u6XAPnuFjJc/2.jpg' height='90' width='120' time='00:05:24'/><media:thumbnail url='http://i.ytimg.com/vi/u6XAPnuFjJc/1.jpg' height='90' width='120' time='00:02:42'/><media:thumbnail url='http://i.ytimg.com/vi/u6XAPnuFjJc/3.jpg' height='90' width='120' time='00:08:06'/><media:thumbnail url='http://i.ytimg.com/vi/u6XAPnuFjJc/0.jpg' height='240' width='320' time='00:05:24'/><media:title type='plain'>RSA Animate - Drive: The surprising truth about what motivates us</media:title><yt:duration seconds='648'/></media:group><gd:rating average='4.972163' max='5' min='1' numRaters='17351' rel='http://schemas.google.com/g/2005#overall'/><yt:recorded>2010-04-08</yt:recorded><yt:statistics favoriteCount='26766' viewCount='2042071'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/zX09WnGU6ZY</id><published>2010-05-28T00:12:14.000Z</published><updated>2010-07-20T11:42:40.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Tech' label='Science &amp; Technology'/><title type='text'>Lego Hello World</title><content type='text'>"Lego felt tip 110" printer connected to an Apple Mac. This is not mindstorms, I designed/built/coded it all from scratch including analog motor electronics, sensors and printer driver, the USB interface uses a "wiring" board.
+
+FAQ: Track name? "Christopher and Raphael just popper Shinichi Osawa distortion disco edit"
+
+FAQ: How long did this take? Hard to say, maybe 3 weeks working evenings. 
+
+FAQ: You're a student and this is a university project? I'm not a student, this is just a hobby project.
+
+FAQ: Just a remake of the 1092a? No, I'd never seen the 1092a until now. However some of the parts came from a 8094 kit amongst others many years ago. It is made to my own design, but I acknolwedge influences and the great work of the official lego designers !
+ 
+FAQ: Does this use mindstorms? Nope, wiring demo board + homemade analog electronics and sensors.
+ 
+FAQ: DPI? Dots per inch? Approx 75 DPI
+
+FAQ: PPM? Pages per minute? Not even 1! I sped things up a little in the video editing to keep it interesting to watch :)
+
+FAQ: Helvetica? Yes of course, my respect to those who noticed :)
+
+FAQ: Full color version/more colours? Originally I was going to do 3 colour version, but I had to simplify as only have 4 lego motors.
+
+FAQ: Open source, schematics etc? Yes, I'll try to get around to this soon. Unfortunately I'm pretty busy at work at moment and documenting this project to a good standard will take a while. Sorry :(
+
+FAQ: Wrote your own driver? Yes, uses standard Mac OS print mechanism.
+
+FAQ: Are﻿ you using some sort of MCU demo board(the black pcb)? Yes. [1] http://wiring.org.co/hardware/
+
+FAQ: re: Mac vs PC abuse? Video not meant as a Mac advert and I'm sorry if the Apple logo offends anyone. I just find them easier to use.
+
+FAQ: Felt tip damage drying up? Yes this is a problem, but one felt tip usually lasts for quite a few pages.
+
+FAQ: Felt tip auto-capping? Nope, sorry.
+
+FAQ: Sensor info: Horizontal positioning using homemade shaft encoder﻿ (black/white rotating lego squares you see in the vid) with a SY-CR102 photo reflector from Maplins, (only £0.89 or $1.30). This is into a sampled analog input as I couldn't get full enough saturation to trigger the ext interrupt pins. There are also push buttons built into lego bricks for left and right end stop detection.</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=zX09WnGU6ZY&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/zX09WnGU6ZY/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/zX09WnGU6ZY/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=zX09WnGU6ZY'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/zX09WnGU6ZY'/><author><name>horseattack</name><uri>http://gdata.youtube.com/feeds/api/users/horseattack</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/zX09WnGU6ZY/comments' countHint='2969'/></gd:comments><media:group><media:category label='Science &amp; Technology' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Tech</media:category><media:content url='http://www.youtube.com/v/zX09WnGU6ZY?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='87' yt:format='5'/><media:content url='rtsp://v4.cache1.c.youtube.com/CiQLENy73wIaGwmW6ZRxWj19zRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='87' yt:format='1'/><media:content url='rtsp://v8.cache5.c.youtube.com/CiQLENy73wIaGwmW6ZRxWj19zRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='87' yt:format='6'/><media:description type='plain'>"Lego felt tip 110" printer connected to an Apple Mac. This is not mindstorms, I designed/built/coded it all from scratch including analog motor electronics, sensors and printer driver, the USB interface uses a "wiring" board.
+
+FAQ: Track name? "Christopher and Raphael just popper Shinichi Osawa distortion disco edit"
+
+FAQ: How long did this take? Hard to say, maybe 3 weeks working evenings. 
+
+FAQ: You're a student and this is a university project? I'm not a student, this is just a hobby project.
+
+FAQ: Just a remake of the 1092a? No, I'd never seen the 1092a until now. However some of the parts came from a 8094 kit amongst others many years ago. It is made to my own design, but I acknolwedge influences and the great work of the official lego designers !
+ 
+FAQ: Does this use mindstorms? Nope, wiring demo board + homemade analog electronics and sensors.
+ 
+FAQ: DPI? Dots per inch? Approx 75 DPI
+
+FAQ: PPM? Pages per minute? Not even 1! I sped things up a little in the video editing to keep it interesting to watch :)
+
+FAQ: Helvetica? Yes of course, my respect to those who noticed :)
+
+FAQ: Full color version/more colours? Originally I was going to do 3 colour version, but I had to simplify as only have 4 lego motors.
+
+FAQ: Open source, schematics etc? Yes, I'll try to get around to this soon. Unfortunately I'm pretty busy at work at moment and documenting this project to a good standard will take a while. Sorry :(
+
+FAQ: Wrote your own driver? Yes, uses standard Mac OS print mechanism.
+
+FAQ: Are﻿ you using some sort of MCU demo board(the black pcb)? Yes. [1] http://wiring.org.co/hardware/
+
+FAQ: re: Mac vs PC abuse? Video not meant as a Mac advert and I'm sorry if the Apple logo offends anyone. I just find them easier to use.
+
+FAQ: Felt tip damage drying up? Yes this is a problem, but one felt tip usually lasts for quite a few pages.
+
+FAQ: Felt tip auto-capping? Nope, sorry.
+
+FAQ: Sensor info: Horizontal positioning using homemade shaft encoder﻿ (black/white rotating lego squares you see in the vid) with a SY-CR102 photo reflector from Maplins, (only £0.89 or $1.30). This is into a sampled analog input as I couldn't get full enough saturation to trigger the ext interrupt pins. There are also push buttons built into lego bricks for left and right end stop detection.</media:description><media:keywords/><media:player url='http://www.youtube.com/watch?v=zX09WnGU6ZY&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/zX09WnGU6ZY/2.jpg' height='90' width='120' time='00:00:43.500'/><media:thumbnail url='http://i.ytimg.com/vi/zX09WnGU6ZY/1.jpg' height='90' width='120' time='00:00:21.750'/><media:thumbnail url='http://i.ytimg.com/vi/zX09WnGU6ZY/3.jpg' height='90' width='120' time='00:01:05.250'/><media:thumbnail url='http://i.ytimg.com/vi/zX09WnGU6ZY/0.jpg' height='240' width='320' time='00:00:43.500'/><media:title type='plain'>Lego Hello World</media:title><yt:duration seconds='87'/></media:group><gd:rating average='4.9720855' max='5' min='1' numRaters='21351' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='20712' viewCount='2836927'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/d0dE23jVLXw</id><published>2010-04-11T20:51:54.000Z</published><updated>2010-07-20T11:13:02.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Film' label='Film &amp; Animation'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pixels'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='the'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='movie'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='animation'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='videogames'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='space'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='invader'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='donkey'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kong'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pacman'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Patrick'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Jean'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='onemoreprod'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='one'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='more'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='prod'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='benjamin'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='darras'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='johnny'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='alves'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='matias'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='boucard'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sfx'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='automobiles'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='indie'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='airplanes'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='editing'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='racing'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='chips'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='motor sports'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='semiconductors'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='gaming'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='extreme driving'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='computers'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='aviation'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='video game'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='rock'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='HD'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='FullHD'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='720p'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='1080p'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='1080i'/><title type='text'>PIXELS by PATRICK JEAN ~FullHD~</title><content type='text'>New York invasion by 8-bits creatures !
+PIXELS is Patrick Jean' latest short film, shot on location in New York.
+
+Written, directed by : Patrick Jean
+Director of Photograhy : Matias Boucard
+SFX by Patrick Jean and guests
+Produced by One More Production
+
+www.onemoreprod.com</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=d0dE23jVLXw&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/d0dE23jVLXw/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/d0dE23jVLXw/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=d0dE23jVLXw'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/d0dE23jVLXw'/><author><name>zitofilm</name><uri>http://gdata.youtube.com/feeds/api/users/zitofilm</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/d0dE23jVLXw/comments' countHint='886'/></gd:comments><media:group><media:category label='Film &amp; Animation' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Film</media:category><media:content url='http://www.youtube.com/v/d0dE23jVLXw?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='155' yt:format='5'/><media:content url='rtsp://v6.cache1.c.youtube.com/CiQLENy73wIaGwl8LdV420RHdxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='155' yt:format='1'/><media:content url='rtsp://v5.cache4.c.youtube.com/CiQLENy73wIaGwl8LdV420RHdxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='155' yt:format='6'/><media:description type='plain'>New York invasion by 8-bits creatures !
+PIXELS is Patrick Jean' latest short film, shot on location in New York.
+
+Written, directed by : Patrick Jean
+Director of Photograhy : Matias Boucard
+SFX by Patrick Jean and guests
+Produced by One More Production
+
+www.onemoreprod.com</media:description><media:keywords>pixels, the, movie, animation, videogames, space, invader, donkey, kong, pacman, Patrick, Jean, onemoreprod, one, more, prod, benjamin, darras, johnny, alves, matias, boucard, sfx, automobiles, indie, airplanes, editing, racing, chips, motor sports, semiconductors, gaming, extreme driving, computers, aviation, video game, rock, HD, FullHD, 720p, 1080p, 1080i</media:keywords><media:player url='http://www.youtube.com/watch?v=d0dE23jVLXw&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/d0dE23jVLXw/2.jpg' height='90' width='120' time='00:01:17.500'/><media:thumbnail url='http://i.ytimg.com/vi/d0dE23jVLXw/1.jpg' height='90' width='120' time='00:00:38.750'/><media:thumbnail url='http://i.ytimg.com/vi/d0dE23jVLXw/3.jpg' height='90' width='120' time='00:01:56.250'/><media:thumbnail url='http://i.ytimg.com/vi/d0dE23jVLXw/0.jpg' height='240' width='320' time='00:01:17.500'/><media:title type='plain'>PIXELS by PATRICK JEAN ~FullHD~</media:title><yt:duration seconds='155'/></media:group><gd:rating average='4.9749045' max='5' min='1' numRaters='6814' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='12304' viewCount='715035'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/Lg9qnWg9kak</id><published>2010-04-22T19:55:10.000Z</published><updated>2010-07-20T11:02:47.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Howto' label='Howto &amp; Style'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='gary'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='chang'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='architect'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='apartment'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='domestic'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='transformer'/><title type='text'>A Tiny Apartment Transforms into 24 Rooms</title><content type='text'>In Hong Kong, because of the space, apartments are small and expensive. Gary Chang, an architect, decided to design a 344 sq. ft. apartment to be able to change into 24 different designs, all by just sliding panels and walls. He calls this the "Domestic Transformer."
+
+This video is not owned by me and I do not take any right of it.
+
+Visit us at http://jellywoo.com/ for more news related to tech and just life in general.
+
+Thanks to Lifehacker, OhGizmo, and all the other sites that mentioned this!
+
+Watch this video and many more at World's Greenest Homes on PlanetGreen.com (http://planetgreen.discovery.com/videos/worlds-greenest-homes/)</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Lg9qnWg9kak&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Lg9qnWg9kak/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Lg9qnWg9kak/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Lg9qnWg9kak'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/Lg9qnWg9kak'/><author><name>JellyWoo1014</name><uri>http://gdata.youtube.com/feeds/api/users/jellywoo1014</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/Lg9qnWg9kak/comments' countHint='2370'/></gd:comments><media:group><media:category label='Howto &amp; Style' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Howto</media:category><media:content url='http://www.youtube.com/v/Lg9qnWg9kak?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='244' yt:format='5'/><media:content url='rtsp://v3.cache2.c.youtube.com/CiQLENy73wIaGwmpkT1onWoPLhMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='244' yt:format='1'/><media:content url='rtsp://v3.cache4.c.youtube.com/CiQLENy73wIaGwmpkT1onWoPLhMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='244' yt:format='6'/><media:description type='plain'>In Hong Kong, because of the space, apartments are small and expensive. Gary Chang, an architect, decided to design a 344 sq. ft. apartment to be able to change into 24 different designs, all by just sliding panels and walls. He calls this the "Domestic Transformer."
+
+This video is not owned by me and I do not take any right of it.
+
+Visit us at http://jellywoo.com/ for more news related to tech and just life in general.
+
+Thanks to Lifehacker, OhGizmo, and all the other sites that mentioned this!
+
+Watch this video and many more at World's Greenest Homes on PlanetGreen.com (http://planetgreen.discovery.com/videos/worlds-greenest-homes/)</media:description><media:keywords>gary, chang, architect, apartment, domestic, transformer</media:keywords><media:player url='http://www.youtube.com/watch?v=Lg9qnWg9kak&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/Lg9qnWg9kak/2.jpg' height='90' width='120' time='00:02:02'/><media:thumbnail url='http://i.ytimg.com/vi/Lg9qnWg9kak/1.jpg' height='90' width='120' time='00:01:01'/><media:thumbnail url='http://i.ytimg.com/vi/Lg9qnWg9kak/3.jpg' height='90' width='120' time='00:03:03'/><media:thumbnail url='http://i.ytimg.com/vi/Lg9qnWg9kak/0.jpg' height='240' width='320' time='00:02:02'/><media:title type='plain'>A Tiny Apartment Transforms into 24 Rooms</media:title><yt:duration seconds='244'/></media:group><gd:rating average='4.971771' max='5' min='1' numRaters='13107' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='21380' viewCount='2997472'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/6nQzs48Tt9U</id><published>2010-05-25T15:02:37.000Z</published><updated>2010-07-20T11:22:52.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='action'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='movie'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='scene'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='gun'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='guns'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pistol'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='muzzle'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='flare'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='bullet'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='hits'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='squib'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='blood'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dive'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='roll'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='john'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='woo'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='essentials'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='compositing'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='vfx'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='effects'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='smoke'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='squibs'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='deleted'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='johnnie'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='toh'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='hong'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kong'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='slow'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mo'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='time'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='motion'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='transformers'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='krav'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='maga'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='takedown'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cqb'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cqc'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='close'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='quarters'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='m4'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='assault'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='rifle'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='glock'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mp5'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='iron'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='man'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='matrix'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='reloaded'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='revolutions'/><title type='text'>Chrono Trigger: Short Action Scene</title><content type='text'>The stairs and pallet are made wood from the holly tree, the strongest material known to man. That should clear things up!
+
+CLICK TO RT! http://bit.ly/RTaction
+
+This is how an action scene should look like. No shaky-cam to make up for lack of decent stunts!
+
+Just a short video about what happened between me and some bad guys. If you think about it, the title makes PERFECT SENSE.
+
+The gun flares and smoke and hits are from Video Copilot's Action Essentials 2 pack: http://www.videocopilot.net/products/action2/
+
+Blood is from our own personal library - red chalk dust on black and composited in.
+
+See the Behind the Scenes: http://www.youtube.com/watch?v=Apw4m0DRQuk
+
+See the Muzzle Flare Tutorial: http://www.youtube.com/watch?v=SsViAvVYoMQ
+
+And finally, check out my 2nd channel, with tutorials and behind the scenes: http://youtube.com/freddiew2</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=6nQzs48Tt9U&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/6nQzs48Tt9U/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/6nQzs48Tt9U/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=6nQzs48Tt9U'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/6nQzs48Tt9U'/><author><name>freddiew</name><uri>http://gdata.youtube.com/feeds/api/users/freddiew</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/6nQzs48Tt9U/comments' countHint='8556'/></gd:comments><media:group><media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Entertainment</media:category><media:content url='http://www.youtube.com/v/6nQzs48Tt9U?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='105' yt:format='5'/><media:content url='rtsp://v1.cache1.c.youtube.com/CiQLENy73wIaGwnVtxOPszN06hMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='105' yt:format='1'/><media:content url='rtsp://v5.cache7.c.youtube.com/CiQLENy73wIaGwnVtxOPszN06hMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='105' yt:format='6'/><media:description type='plain'>The stairs and pallet are made wood from the holly tree, the strongest material known to man. That should clear things up!
+
+CLICK TO RT! http://bit.ly/RTaction
+
+This is how an action scene should look like. No shaky-cam to make up for lack of decent stunts!
+
+Just a short video about what happened between me and some bad guys. If you think about it, the title makes PERFECT SENSE.
+
+The gun flares and smoke and hits are from Video Copilot's Action Essentials 2 pack: http://www.videocopilot.net/products/action2/
+
+Blood is from our own personal library - red chalk dust on black and composited in.
+
+See the Behind the Scenes: http://www.youtube.com/watch?v=Apw4m0DRQuk
+
+See the Muzzle Flare Tutorial: http://www.youtube.com/watch?v=SsViAvVYoMQ
+
+And finally, check out my 2nd channel, with tutorials and behind the scenes: http://youtube.com/freddiew2</media:description><media:keywords>action, movie, scene, gun, guns, pistol, muzzle, flare, bullet, hits, squib, blood, dive, roll, john, woo, essentials, compositing, vfx, effects, smoke, squibs, deleted, johnnie, toh, hong, kong, slow, mo, time, motion, transformers, krav, maga, takedown, cqb, cqc, close, quarters, m4, assault, rifle, glock, mp5, iron, man, matrix, reloaded, revolutions</media:keywords><media:player url='http://www.youtube.com/watch?v=6nQzs48Tt9U&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/6nQzs48Tt9U/2.jpg' height='90' width='120' time='00:00:52.500'/><media:thumbnail url='http://i.ytimg.com/vi/6nQzs48Tt9U/1.jpg' height='90' width='120' time='00:00:26.250'/><media:thumbnail url='http://i.ytimg.com/vi/6nQzs48Tt9U/3.jpg' height='90' width='120' time='00:01:18.750'/><media:thumbnail url='http://i.ytimg.com/vi/6nQzs48Tt9U/0.jpg' height='240' width='320' time='00:00:52.500'/><media:title type='plain'>Chrono Trigger: Short Action Scene</media:title><yt:duration seconds='105'/></media:group><gd:rating average='4.9717145' max='5' min='1' numRaters='25561' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='22694' viewCount='1598866'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/HvHdJkZYWdo</id><published>2010-06-26T08:52:07.000Z</published><updated>2010-07-20T11:18:51.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Howto' label='Howto &amp; Style'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Ray Young Chu'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Shane Dawson painting'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mural'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='miley'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shanaynay'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shanaenae'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='drawing'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='painting'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sexy'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sex time'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='asian'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='korean'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='chinese'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dog'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cats'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='david'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='choi'/><title type='text'>Shane Dawson Painting by Ray Young Chu</title><content type='text'>+++ THANKS FOR SUBSCRIBING / SHARING / COMMENTING / FAVORITING!!! +++
+Finally! Shane Dawson painting done! This is a little of how I did it.
+
+http://www.youtube.com/shanedawsontv
+
+QUESTION: 
+What do you like about the paintings?
+
+THANKS FOR COMMENTING!
+
+SUBSCRIBE and stayed tuned for next week when I do another drawing for Brittani and give it away!
+
+ART AND FILM BY:
+Ray Young Chu
+www.youtube.com/rayyoungchu
+
+MUSIC BY:
+http://www.youtube.com/davidchoimusic
+Song Title: XXX
+
+RAY YOUNG CHU Channel:
+http://www.youtube.com/rayyoungchu
+
+RAY YOUNG CHU ON THIS (2nd) Channel:
+http://www.youtube.com/RayYoungChuOnThis
+
+STORE
+http://www.rayyoungchu.spreadshirt.com
+
+FACEBOOK (ADD ME TO KEEP UPDATED!)
+http://www.facebook.com/pages/Ray-Young-Chu/40367069214
+
+WEBSITE
+http://www.rayyoungchu.com
+
+TWITTER
+http://www.twitter.com/rayyoungchu
+
+MYSPACE
+http://www.myspace.com/rayyoungchu
+
+MEDIA / BUSINESS INQUIRIES:
+media@rayyoungchu.com</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=HvHdJkZYWdo&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/HvHdJkZYWdo/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/HvHdJkZYWdo/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=HvHdJkZYWdo'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/HvHdJkZYWdo'/><author><name>rayyoungchu</name><uri>http://gdata.youtube.com/feeds/api/users/rayyoungchu</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/HvHdJkZYWdo/comments' countHint='2794'/></gd:comments><media:group><media:category label='Howto &amp; Style' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Howto</media:category><media:content url='http://www.youtube.com/v/HvHdJkZYWdo?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='189' yt:format='5'/><media:content url='rtsp://v7.cache2.c.youtube.com/CiQLENy73wIaGwnaWVhGJt3xHhMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='189' yt:format='1'/><media:content url='rtsp://v8.cache7.c.youtube.com/CiQLENy73wIaGwnaWVhGJt3xHhMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='189' yt:format='6'/><media:description type='plain'>+++ THANKS FOR SUBSCRIBING / SHARING / COMMENTING / FAVORITING!!! +++
+Finally! Shane Dawson painting done! This is a little of how I did it.
+
+http://www.youtube.com/shanedawsontv
+
+QUESTION: 
+What do you like about the paintings?
+
+THANKS FOR COMMENTING!
+
+SUBSCRIBE and stayed tuned for next week when I do another drawing for Brittani and give it away!
+
+ART AND FILM BY:
+Ray Young Chu
+www.youtube.com/rayyoungchu
+
+MUSIC BY:
+http://www.youtube.com/davidchoimusic
+Song Title: XXX
+
+RAY YOUNG CHU Channel:
+http://www.youtube.com/rayyoungchu
+
+RAY YOUNG CHU ON THIS (2nd) Channel:
+http://www.youtube.com/RayYoungChuOnThis
+
+STORE
+http://www.rayyoungchu.spreadshirt.com
+
+FACEBOOK (ADD ME TO KEEP UPDATED!)
+http://www.facebook.com/pages/Ray-Young-Chu/40367069214
+
+WEBSITE
+http://www.rayyoungchu.com
+
+TWITTER
+http://www.twitter.com/rayyoungchu
+
+MYSPACE
+http://www.myspace.com/rayyoungchu
+
+MEDIA / BUSINESS INQUIRIES:
+media@rayyoungchu.com</media:description><media:keywords>Ray Young Chu, Shane Dawson painting, mural, miley, shanaynay, shanaenae, drawing, painting, sexy, sex time, asian, korean, chinese, dog, cats, david, choi</media:keywords><media:player url='http://www.youtube.com/watch?v=HvHdJkZYWdo&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/HvHdJkZYWdo/2.jpg' height='90' width='120' time='00:01:34.500'/><media:thumbnail url='http://i.ytimg.com/vi/HvHdJkZYWdo/1.jpg' height='90' width='120' time='00:00:47.250'/><media:thumbnail url='http://i.ytimg.com/vi/HvHdJkZYWdo/3.jpg' height='90' width='120' time='00:02:21.750'/><media:thumbnail url='http://i.ytimg.com/vi/HvHdJkZYWdo/0.jpg' height='240' width='320' time='00:01:34.500'/><media:title type='plain'>Shane Dawson Painting by Ray Young Chu</media:title><yt:duration seconds='189'/></media:group><gd:rating average='4.9711933' max='5' min='1' numRaters='14337' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='5989' viewCount='290370'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/uQITWbAaDx0</id><published>2010-05-30T19:23:09.000Z</published><updated>2010-07-20T11:22:37.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Sports' label='Sports'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Guillaume'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Nery'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='freediving'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='freedive'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='champion'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='record'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='monde'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='apnea'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='apnée'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='base jump'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Julie'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Gautier'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Bluenery'/><title type='text'>Guillaume Nery base jumping at Dean's Blue Hole, filmed on breath hold by Julie Gautier</title><content type='text'>FREE FALL:  World champion freediver Guillaume Nery special dive at Dean's Blue Hole, the deepest blue hole in the world filmed entirely on breath hold by the french champion Julie Gautier. This video is a FICTION and an ARTISTIC PROJECT.  Edited by BLUENERY (c). Music: ARCHIVE - you make me feel.</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=uQITWbAaDx0&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/uQITWbAaDx0/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/uQITWbAaDx0/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=uQITWbAaDx0'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/uQITWbAaDx0'/><author><name>guillaumenery</name><uri>http://gdata.youtube.com/feeds/api/users/guillaumenery</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/uQITWbAaDx0/comments' countHint='4645'/></gd:comments><media:group><media:category label='Sports' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Sports</media:category><media:content url='http://www.youtube.com/v/uQITWbAaDx0?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='258' yt:format='5'/><media:content url='rtsp://v7.cache3.c.youtube.com/CiQLENy73wIaGwkdDxqwWRMCuRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='258' yt:format='1'/><media:content url='rtsp://v1.cache7.c.youtube.com/CiQLENy73wIaGwkdDxqwWRMCuRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='258' yt:format='6'/><media:description type='plain'>FREE FALL:  World champion freediver Guillaume Nery special dive at Dean's Blue Hole, the deepest blue hole in the world filmed entirely on breath hold by the french champion Julie Gautier. This video is a FICTION and an ARTISTIC PROJECT.  Edited by BLUENERY (c). Music: ARCHIVE - you make me feel.</media:description><media:keywords>Guillaume, Nery, freediving, freedive, champion, record, monde, apnea, apnée, base jump, Julie, Gautier, Bluenery</media:keywords><media:player url='http://www.youtube.com/watch?v=uQITWbAaDx0&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/uQITWbAaDx0/2.jpg' height='90' width='120' time='00:02:09'/><media:thumbnail url='http://i.ytimg.com/vi/uQITWbAaDx0/1.jpg' height='90' width='120' time='00:01:04.500'/><media:thumbnail url='http://i.ytimg.com/vi/uQITWbAaDx0/3.jpg' height='90' width='120' time='00:03:13.500'/><media:thumbnail url='http://i.ytimg.com/vi/uQITWbAaDx0/0.jpg' height='240' width='320' time='00:02:09'/><media:title type='plain'>Guillaume Nery base jumping at Dean's Blue Hole, filmed on breath hold by Julie Gautier</media:title><yt:duration seconds='258'/></media:group><gd:rating average='4.971127' max='5' min='1' numRaters='18010' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='29651' viewCount='5025856'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/gaaCq7ELGZk</id><published>2010-04-30T01:24:30.000Z</published><updated>2010-07-20T11:18:21.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='KevJumba'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='alpha'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kenny'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='body'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='fitness'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='trainer'/><title type='text'>Alpha Kenny Body</title><content type='text'>You guys asked for the whole video, so here it is :)
+It took my dad over 5 minutes to understand what it meant, lol wait til the end to see his reaction, haha
+
+Alpha kenny body that subscribes to my channel! (Eww not really, but seriously tho).
+http://youtube.com/subscription_center?add_user=kevjumba
+
+Previous video:
+http://www.youtube.com/watch?v=qlWchMx_S1E
+
+My Second Channel:
+http://youtube.com/jumbafund
+Stalk me plz:
+http://www.twitter.com/kevjumba
+omg, Add me on facebook:
+http://www.facebook.com/kevjumba
+
+Music By David Choi (Subscribe!)
+http://www.youtube.com/davidchoimusic</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=gaaCq7ELGZk&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/gaaCq7ELGZk/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/gaaCq7ELGZk/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=gaaCq7ELGZk'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/gaaCq7ELGZk'/><author><name>kevjumba</name><uri>http://gdata.youtube.com/feeds/api/users/kevjumba</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/gaaCq7ELGZk/comments' countHint='12251'/></gd:comments><media:group><media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Entertainment</media:category><media:content url='http://www.youtube.com/v/gaaCq7ELGZk?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='156' yt:format='5'/><media:content url='rtsp://v1.cache8.c.youtube.com/CiQLENy73wIaGwmZGQuxq4KmgRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='156' yt:format='1'/><media:content url='rtsp://v4.cache7.c.youtube.com/CiQLENy73wIaGwmZGQuxq4KmgRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='156' yt:format='6'/><media:description type='plain'>You guys asked for the whole video, so here it is :)
+It took my dad over 5 minutes to understand what it meant, lol wait til the end to see his reaction, haha
+
+Alpha kenny body that subscribes to my channel! (Eww not really, but seriously tho).
+http://youtube.com/subscription_center?add_user=kevjumba
+
+Previous video:
+http://www.youtube.com/watch?v=qlWchMx_S1E
+
+My Second Channel:
+http://youtube.com/jumbafund
+Stalk me plz:
+http://www.twitter.com/kevjumba
+omg, Add me on facebook:
+http://www.facebook.com/kevjumba
+
+Music By David Choi (Subscribe!)
+http://www.youtube.com/davidchoimusic</media:description><media:keywords>KevJumba, alpha, kenny, body, fitness, trainer</media:keywords><media:player url='http://www.youtube.com/watch?v=gaaCq7ELGZk&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/gaaCq7ELGZk/2.jpg' height='90' width='120' time='00:01:18'/><media:thumbnail url='http://i.ytimg.com/vi/gaaCq7ELGZk/1.jpg' height='90' width='120' time='00:00:39'/><media:thumbnail url='http://i.ytimg.com/vi/gaaCq7ELGZk/3.jpg' height='90' width='120' time='00:01:57'/><media:thumbnail url='http://i.ytimg.com/vi/gaaCq7ELGZk/0.jpg' height='240' width='320' time='00:01:18'/><media:title type='plain'>Alpha Kenny Body</media:title><yt:duration seconds='156'/></media:group><gd:rating average='4.971071' max='5' min='1' numRaters='38473' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='15590' viewCount='1580708'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/jBvZ8f44Et0</id><published>2009-11-30T21:16:51.000Z</published><updated>2010-07-20T10:27:01.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Music' label='Music'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Piano'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='flute'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='beatbox'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='one'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='hand'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='greg'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pattillo'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='project'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='trio'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='nyc'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='goofin'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='rainy'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='day'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='monday'/><title type='text'>Greg Pattillo - Piano/Flute/Beatbox</title><content type='text'>http://www.cdbaby.com/cd/projectmusic3 
+http://www.cdbaby.com/cd/projectmusic2
+http://www.cdbaby.com/cd/projectmusic
+http://itunes.apple.com/us/album/project-trio/id350173688
+
+August 12-14 - Anahiem, CA
+National Flute Convention!!!
+Come and see us at the Gemeinhardt Booth!
+
+July 12-29 - Australia
+Melbourne and Sydney - More details to come!!!
+http://www.lowflutes.com/home.html
+http://www.cityrecitalhall.com/events/id/713/Open-Academy-Flute-Festival-2010-Project-Trio-Concert/
+
+August 3-7 - Vienna, VA
+Wolftrap - http://www.wolftrap.org/
+
+August 11 - Jackson Hole, WY
+Grand Teton Music Festival - http://www.gtmf.org/
+
+Fall Concerts - More details to come
+
+Sept 4 - Catskills, NY
+Sept 15-18 - North Florida
+Oct 5-7 - Miami Beach and Daytona
+Oct 16 - NYC - NYU
+Oct 21-24 - MI tour to include Detroit and Interlochen
+Nov 5-9 - Chicago area tour
+Nov 11-24 - GERMANY Nov 11-17...ITALY Nov 18-24!!
+Dec 9-12 - Cleveland and Columbus
+
+www.projecttrio.com
+www.whatisproject.org
+www.pattillostyle.com
+Facebook: http://www.facebook.com/home.php#/group.php?gid=60682244661
+Twitter: whatisproject
+
+
+PROJECT Trio is: 
+Greg Pattillo - Flute 
+Eric Stephenson - Cello
+Peter Seymour - Bass</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=jBvZ8f44Et0&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/jBvZ8f44Et0/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/jBvZ8f44Et0/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=jBvZ8f44Et0'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/jBvZ8f44Et0'/><author><name>freedomworksfilms</name><uri>http://gdata.youtube.com/feeds/api/users/freedomworksfilms</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/jBvZ8f44Et0/comments' countHint='2290'/></gd:comments><media:group><media:category label='Music' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Music</media:category><media:content url='http://www.youtube.com/v/jBvZ8f44Et0?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='80' yt:format='5'/><media:content url='rtsp://v7.cache2.c.youtube.com/CiQLENy73wIaGwndEjj-8dkbjBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='80' yt:format='1'/><media:content url='rtsp://v2.cache5.c.youtube.com/CiQLENy73wIaGwndEjj-8dkbjBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='80' yt:format='6'/><media:description type='plain'>http://www.cdbaby.com/cd/projectmusic3 
+http://www.cdbaby.com/cd/projectmusic2
+http://www.cdbaby.com/cd/projectmusic
+http://itunes.apple.com/us/album/project-trio/id350173688
+
+August 12-14 - Anahiem, CA
+National Flute Convention!!!
+Come and see us at the Gemeinhardt Booth!
+
+July 12-29 - Australia
+Melbourne and Sydney - More details to come!!!
+http://www.lowflutes.com/home.html
+http://www.cityrecitalhall.com/events/id/713/Open-Academy-Flute-Festival-2010-Project-Trio-Concert/
+
+August 3-7 - Vienna, VA
+Wolftrap - http://www.wolftrap.org/
+
+August 11 - Jackson Hole, WY
+Grand Teton Music Festival - http://www.gtmf.org/
+
+Fall Concerts - More details to come
+
+Sept 4 - Catskills, NY
+Sept 15-18 - North Florida
+Oct 5-7 - Miami Beach and Daytona
+Oct 16 - NYC - NYU
+Oct 21-24 - MI tour to include Detroit and Interlochen
+Nov 5-9 - Chicago area tour
+Nov 11-24 - GERMANY Nov 11-17...ITALY Nov 18-24!!
+Dec 9-12 - Cleveland and Columbus
+
+www.projecttrio.com
+www.whatisproject.org
+www.pattillostyle.com
+Facebook: http://www.facebook.com/home.php#/group.php?gid=60682244661
+Twitter: whatisproject
+
+
+PROJECT Trio is: 
+Greg Pattillo - Flute 
+Eric Stephenson - Cello
+Peter Seymour - Bass</media:description><media:keywords>Piano, flute, beatbox, one, hand, greg, pattillo, project, trio, nyc, goofin, rainy, day, monday</media:keywords><media:player url='http://www.youtube.com/watch?v=jBvZ8f44Et0&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/jBvZ8f44Et0/2.jpg' height='90' width='120' time='00:00:40'/><media:thumbnail url='http://i.ytimg.com/vi/jBvZ8f44Et0/1.jpg' height='90' width='120' time='00:00:20'/><media:thumbnail url='http://i.ytimg.com/vi/jBvZ8f44Et0/3.jpg' height='90' width='120' time='00:01:00'/><media:thumbnail url='http://i.ytimg.com/vi/jBvZ8f44Et0/0.jpg' height='240' width='320' time='00:00:40'/><media:title type='plain'>Greg Pattillo - Piano/Flute/Beatbox</media:title><yt:duration seconds='80'/></media:group><gd:rating average='4.972686' max='5' min='1' numRaters='7249' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='9104' viewCount='703524'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/-CVYOCMpJRY</id><published>2010-06-27T10:54:53.000Z</published><updated>2010-07-20T09:28:16.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Film' label='Film &amp; Animation'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='PATRICK'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='BOIVIN'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='STAR'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='WARS'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='AT-AT'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='DOG'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='EMPIRE'/><title type='text'>AT-AT DAY AFTERNOON</title><content type='text'>When I was a kid, there are two things I wanted badly and never got... A real dog and a Kenner AT-AT Walker.
+Music by Blithe Field
+http://www.myspace.com/swallowoceans
+
+Get some images here
+http://files.me.com/patrickboivin/wm2aib
+
+If you can't see the video in your country, try this link
+http://www.openfilm.com/videos/at_at_day_afternoon/</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=-CVYOCMpJRY&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/-CVYOCMpJRY/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/-CVYOCMpJRY/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=-CVYOCMpJRY'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/-CVYOCMpJRY'/><author><name>PatrickBoivin</name><uri>http://gdata.youtube.com/feeds/api/users/patrickboivin</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/-CVYOCMpJRY/comments' countHint='2205'/></gd:comments><media:group><media:category label='Film &amp; Animation' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Film</media:category><media:content url='http://www.youtube.com/v/-CVYOCMpJRY?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='65' yt:format='5'/><media:content url='rtsp://v5.cache2.c.youtube.com/CiQLENy73wIaGwkWJSkjOFgl-BMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='65' yt:format='1'/><media:content url='rtsp://v2.cache8.c.youtube.com/CiQLENy73wIaGwkWJSkjOFgl-BMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='65' yt:format='6'/><media:description type='plain'>When I was a kid, there are two things I wanted badly and never got... A real dog and a Kenner AT-AT Walker.
+Music by Blithe Field
+http://www.myspace.com/swallowoceans
+
+Get some images here
+http://files.me.com/patrickboivin/wm2aib
+
+If you can't see the video in your country, try this link
+http://www.openfilm.com/videos/at_at_day_afternoon/</media:description><media:keywords>PATRICK, BOIVIN, STAR, WARS, AT-AT, DOG, EMPIRE</media:keywords><media:player url='http://www.youtube.com/watch?v=-CVYOCMpJRY&amp;feature=youtube_gdata'/><media:restriction type='country' relationship='deny'>DE</media:restriction><media:thumbnail url='http://i.ytimg.com/vi/-CVYOCMpJRY/2.jpg' height='90' width='120' time='00:00:32.500'/><media:thumbnail url='http://i.ytimg.com/vi/-CVYOCMpJRY/1.jpg' height='90' width='120' time='00:00:16.250'/><media:thumbnail url='http://i.ytimg.com/vi/-CVYOCMpJRY/3.jpg' height='90' width='120' time='00:00:48.750'/><media:thumbnail url='http://i.ytimg.com/vi/-CVYOCMpJRY/0.jpg' height='240' width='320' time='00:00:32.500'/><media:title type='plain'>AT-AT DAY AFTERNOON</media:title><yt:duration seconds='65'/></media:group><gd:rating average='4.9705505' max='5' min='1' numRaters='16469' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='15700' viewCount='1371653'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/mdSkr9kRBmY</id><published>2010-05-06T10:30:41.000Z</published><updated>2010-07-20T11:23:50.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Music' label='Music'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='paul'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dateh'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='hip'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='hop'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='violin'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mashup'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cover'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='lady'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='gaga'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='telephone'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kesha'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='blah'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='rihanna'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='rude'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='boy'/><title type='text'>paul dateh: top 40 violin mashup</title><content type='text'>download the mp3 for free at http://pauldateh.com/music
+tweet this video: http://bit.ly/9RFaM2
+
+just for kicks, i made a mashup using some songs from the current itunes top 40 list. hope you enjoy it!
+
+http://pauldateh.com
+violin. vocals. writing. 
+
+please support the artists that originally perform the songs used in this mashup:
+
+lady gaga - telephone
+http://itunes.apple.com/us/album/the-fame-monster/id350699166
+
+ke$ha - blah blah blah
+http://itunes.apple.com/us/album/animal/id344796445
+
+rihanna - rude boy
+http://itunes.apple.com/us/album/rated-r/id340340001
+
+usher - omg
+http://itunes.apple.com/us/album/raymond-v-raymond/id361405193
+
+shout out to joseph vincent for letting me borrow his adapted rude boy lyrics! check him out at http://youtube.com/hoorahjencar</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=mdSkr9kRBmY&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/mdSkr9kRBmY/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/mdSkr9kRBmY/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=mdSkr9kRBmY'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/mdSkr9kRBmY'/><author><name>pauldateh</name><uri>http://gdata.youtube.com/feeds/api/users/pauldateh</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/mdSkr9kRBmY/comments' countHint='2568'/></gd:comments><media:group><media:category label='Music' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Music</media:category><media:content url='http://www.youtube.com/v/mdSkr9kRBmY?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='275' yt:format='5'/><media:content url='rtsp://v6.cache1.c.youtube.com/CiQLENy73wIaGwlmBhHZr6TUmRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='275' yt:format='1'/><media:content url='rtsp://v3.cache1.c.youtube.com/CiQLENy73wIaGwlmBhHZr6TUmRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='275' yt:format='6'/><media:description type='plain'>download the mp3 for free at http://pauldateh.com/music
+tweet this video: http://bit.ly/9RFaM2
+
+just for kicks, i made a mashup using some songs from the current itunes top 40 list. hope you enjoy it!
+
+http://pauldateh.com
+violin. vocals. writing. 
+
+please support the artists that originally perform the songs used in this mashup:
+
+lady gaga - telephone
+http://itunes.apple.com/us/album/the-fame-monster/id350699166
+
+ke$ha - blah blah blah
+http://itunes.apple.com/us/album/animal/id344796445
+
+rihanna - rude boy
+http://itunes.apple.com/us/album/rated-r/id340340001
+
+usher - omg
+http://itunes.apple.com/us/album/raymond-v-raymond/id361405193
+
+shout out to joseph vincent for letting me borrow his adapted rude boy lyrics! check him out at http://youtube.com/hoorahjencar</media:description><media:keywords>paul, dateh, hip, hop, violin, mashup, cover, lady, gaga, telephone, kesha, blah, rihanna, rude, boy</media:keywords><media:player url='http://www.youtube.com/watch?v=mdSkr9kRBmY&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/mdSkr9kRBmY/2.jpg' height='90' width='120' time='00:02:17.500'/><media:thumbnail url='http://i.ytimg.com/vi/mdSkr9kRBmY/1.jpg' height='90' width='120' time='00:01:08.750'/><media:thumbnail url='http://i.ytimg.com/vi/mdSkr9kRBmY/3.jpg' height='90' width='120' time='00:03:26.250'/><media:thumbnail url='http://i.ytimg.com/vi/mdSkr9kRBmY/0.jpg' height='240' width='320' time='00:02:17.500'/><media:title type='plain'>paul dateh: top 40 violin mashup</media:title><yt:duration seconds='275'/></media:group><gd:rating average='4.970532' max='5' min='1' numRaters='12488' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='12839' viewCount='904896'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/hE-ZmwATS8E</id><published>2010-06-29T13:54:27.000Z</published><updated>2010-07-20T11:29:25.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Autos' label='Autos &amp; Vehicles'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='CBE'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Films'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='clinton'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='jones'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cardboard'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='warfare'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='brett'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='driver'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='brettsk8'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='freddiew'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='freddie'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='wong'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='army'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='military'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='guns'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='weapons'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='explosions'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='action'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='short'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='film'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='videocopilot'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='andrew'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kramer'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='after'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='effects'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='premiere'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='photoshop'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cs5'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='call'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='of'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='duty'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='black'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ops'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='modern'/><title type='text'>Cardboard Warfare</title><content type='text'>Vote this bad boy up on reddit! 
+http://www.reddit.com/r/funny/comments/ck8vu/cardboard_weapon_warfare/
+Digg it! http://digg.com/xbox/Cardboard_Warfare_Video
+
+The cardboard video is finally finished!!! This took about a month and a half of planning, making cardboard guns, filming, and editing. Sound, effects, editing, and filming by Clinton Jones, aka, pwnisher.
+
+To make this video you need:
+
+- 254 program crashes
+- 427 manual frames to rotoscope
+- 59 layers of sound effects
+- a BUTTLOAD of cardboard and box cutters
+- and a katamari
+
+Thank you all, for making this video possible! Couldn't have done it without you guys!
+
+Twitter: http://www.twitter.com/_pwnisher_
+Facebook: http://www.facebook.com/pwnisher1
+
+Special thanks to freddie wong!!! http://www.youtube.com/freddiew
+
+Shoutout to http://www.youtube.com/joeyandzach</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=hE-ZmwATS8E&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/hE-ZmwATS8E/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/hE-ZmwATS8E/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=hE-ZmwATS8E'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/hE-ZmwATS8E'/><author><name>pwnisher</name><uri>http://gdata.youtube.com/feeds/api/users/pwnisher</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/hE-ZmwATS8E/comments' countHint='2797'/></gd:comments><media:group><media:category label='Autos &amp; Vehicles' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Autos</media:category><media:content url='http://www.youtube.com/v/hE-ZmwATS8E?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='214' yt:format='5'/><media:content url='rtsp://v8.cache5.c.youtube.com/CiQLENy73wIaGwnBSxMAm5lPhBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='214' yt:format='1'/><media:content url='rtsp://v1.cache2.c.youtube.com/CiQLENy73wIaGwnBSxMAm5lPhBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='214' yt:format='6'/><media:description type='plain'>Vote this bad boy up on reddit! 
+http://www.reddit.com/r/funny/comments/ck8vu/cardboard_weapon_warfare/
+Digg it! http://digg.com/xbox/Cardboard_Warfare_Video
+
+The cardboard video is finally finished!!! This took about a month and a half of planning, making cardboard guns, filming, and editing. Sound, effects, editing, and filming by Clinton Jones, aka, pwnisher.
+
+To make this video you need:
+
+- 254 program crashes
+- 427 manual frames to rotoscope
+- 59 layers of sound effects
+- a BUTTLOAD of cardboard and box cutters
+- and a katamari
+
+Thank you all, for making this video possible! Couldn't have done it without you guys!
+
+Twitter: http://www.twitter.com/_pwnisher_
+Facebook: http://www.facebook.com/pwnisher1
+
+Special thanks to freddie wong!!! http://www.youtube.com/freddiew
+
+Shoutout to http://www.youtube.com/joeyandzach</media:description><media:keywords>CBE, Films, clinton, jones, cardboard, warfare, brett, driver, brettsk8, freddiew, freddie, wong, army, military, guns, weapons, explosions, action, short, film, videocopilot, andrew, kramer, after, effects, premiere, photoshop, cs5, call, of, duty, black, ops, modern</media:keywords><media:player url='http://www.youtube.com/watch?v=hE-ZmwATS8E&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/hE-ZmwATS8E/2.jpg' height='90' width='120' time='00:01:47'/><media:thumbnail url='http://i.ytimg.com/vi/hE-ZmwATS8E/1.jpg' height='90' width='120' time='00:00:53.500'/><media:thumbnail url='http://i.ytimg.com/vi/hE-ZmwATS8E/3.jpg' height='90' width='120' time='00:02:40.500'/><media:thumbnail url='http://i.ytimg.com/vi/hE-ZmwATS8E/0.jpg' height='240' width='320' time='00:01:47'/><media:title type='plain'>Cardboard Warfare</media:title><yt:duration seconds='214'/></media:group><gd:rating average='4.969854' max='5' min='1' numRaters='13136' rel='http://schemas.google.com/g/2005#overall'/><yt:recorded>2010-06-12</yt:recorded><yt:statistics favoriteCount='14577' viewCount='1032343'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/-8JsvwUcok0</id><published>2010-07-14T18:45:55.000Z</published><updated>2010-07-20T10:44:50.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='oldspice'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Old Spice'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Isaiah Mustafa'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='old spice man'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='old spice guy'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Man on a Horse'/><title type='text'>Re: pandarr | Old Spice</title><content type='text'>Pandarr asked for an answering machine message on Reddit... so I made you one.</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=-8JsvwUcok0&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/-8JsvwUcok0/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/-8JsvwUcok0/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=-8JsvwUcok0'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/-8JsvwUcok0'/><author><name>OldSpice</name><uri>http://gdata.youtube.com/feeds/api/users/oldspice</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/-8JsvwUcok0/comments' countHint='850'/></gd:comments><yt:location>galapagos islands</yt:location><media:group><media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People</media:category><media:content url='http://www.youtube.com/v/-8JsvwUcok0?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='63' yt:format='5'/><media:content url='rtsp://v2.cache8.c.youtube.com/CiQLENy73wIaGwlNohwFv2zC-xMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='63' yt:format='1'/><media:content url='rtsp://v3.cache2.c.youtube.com/CiQLENy73wIaGwlNohwFv2zC-xMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='63' yt:format='6'/><media:description type='plain'>Pandarr asked for an answering machine message on Reddit... so I made you one.</media:description><media:keywords>oldspice, Old Spice, Isaiah Mustafa, old spice man, old spice guy, Man on a Horse</media:keywords><media:player url='http://www.youtube.com/watch?v=-8JsvwUcok0&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/-8JsvwUcok0/2.jpg' height='90' width='120' time='00:00:31.500'/><media:thumbnail url='http://i.ytimg.com/vi/-8JsvwUcok0/1.jpg' height='90' width='120' time='00:00:15.750'/><media:thumbnail url='http://i.ytimg.com/vi/-8JsvwUcok0/3.jpg' height='90' width='120' time='00:00:47.250'/><media:thumbnail url='http://i.ytimg.com/vi/-8JsvwUcok0/0.jpg' height='240' width='320' time='00:00:31.500'/><media:title type='plain'>Re: pandarr | Old Spice</media:title><yt:duration seconds='63'/></media:group><gd:rating average='4.979326' max='5' min='1' numRaters='5756' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='5461' viewCount='553359'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/qlWchMx_S1E</id><published>2010-04-24T01:03:06.000Z</published><updated>2010-07-20T11:06:26.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='KevJumba'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='personal'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='trainer'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='alpha'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kenny'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='body'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dad'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='JumbaFund'/><title type='text'>FITNESS Trainer!</title><content type='text'>I asked my viewers what career I should try and what would suit me, and apparently many of you think I should get into porn and prostitution. I'm flattered... but I decide not to.
+Watch as I get my dad into the best physical shape of his life.
+
+Click to watch the FULL Alpha Kenny Body Video:
+http://www.youtube.com/watch?v=gaaCq7ELGZk
+
+My Second Channel:
+http://youtube.com/jumbafund
+Follow me on Twitter:
+http://www.twitter.com/kevjumba
+Join my Facebook:
+http://www.facebook.com/kevjumba
+
+Music by:
+http://www.youtube.com/davidchoimusic</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=qlWchMx_S1E&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/qlWchMx_S1E/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/qlWchMx_S1E/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=qlWchMx_S1E'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/qlWchMx_S1E'/><author><name>kevjumba</name><uri>http://gdata.youtube.com/feeds/api/users/kevjumba</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/qlWchMx_S1E/comments' countHint='32702'/></gd:comments><media:group><media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Entertainment</media:category><media:content url='http://www.youtube.com/v/qlWchMx_S1E?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='271' yt:format='5'/><media:content url='rtsp://v6.cache6.c.youtube.com/CiQLENy73wIaGwlRS3_MhJxVqhMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='271' yt:format='1'/><media:content url='rtsp://v3.cache3.c.youtube.com/CiQLENy73wIaGwlRS3_MhJxVqhMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='271' yt:format='6'/><media:description type='plain'>I asked my viewers what career I should try and what would suit me, and apparently many of you think I should get into porn and prostitution. I'm flattered... but I decide not to.
+Watch as I get my dad into the best physical shape of his life.
+
+Click to watch the FULL Alpha Kenny Body Video:
+http://www.youtube.com/watch?v=gaaCq7ELGZk
+
+My Second Channel:
+http://youtube.com/jumbafund
+Follow me on Twitter:
+http://www.twitter.com/kevjumba
+Join my Facebook:
+http://www.facebook.com/kevjumba
+
+Music by:
+http://www.youtube.com/davidchoimusic</media:description><media:keywords>KevJumba, personal, trainer, alpha, kenny, body, dad, JumbaFund</media:keywords><media:player url='http://www.youtube.com/watch?v=qlWchMx_S1E&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/qlWchMx_S1E/2.jpg' height='90' width='120' time='00:02:15.500'/><media:thumbnail url='http://i.ytimg.com/vi/qlWchMx_S1E/1.jpg' height='90' width='120' time='00:01:07.750'/><media:thumbnail url='http://i.ytimg.com/vi/qlWchMx_S1E/3.jpg' height='90' width='120' time='00:03:23.250'/><media:thumbnail url='http://i.ytimg.com/vi/qlWchMx_S1E/0.jpg' height='240' width='320' time='00:02:15.500'/><media:title type='plain'>FITNESS Trainer!</media:title><yt:duration seconds='271'/></media:group><gd:rating average='4.97017' max='5' min='1' numRaters='30104' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='6577' viewCount='1148939'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/rPIFXdLaZ4U</id><published>2010-05-24T13:34:59.000Z</published><updated>2010-07-20T11:06:18.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Film' label='Film &amp; Animation'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='rhettandlink'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='tshirtwar'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='tshirt'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='t shirt'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='war'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mcdonalds'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='coke'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='commercial'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='TV'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mysteryguitarman'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='verytasteful'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='stop motion'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='animation'/><title type='text'>T-Shirt War 2 - Behind-the-Scenes</title><content type='text'>Thanks for watching and subscribing!
+
+Watch the finished commercial! http://www.youtube.com/watch?v=iLoA6BpUWqQ
+
+Thanks to Joe &amp; Billy for lending their amazing talents: SUB them!
+Joe: http://youtube.com/mysteryguitarman
+Billy: http://youtube.com/verytasteful
+
+Background music is from RoyaltyFreeMusicLibrary.com. They have an awesome collection of tracks to fit just about any situation. Get an account at http://www.royaltyfreemusiclibrary.com/
+
+----------------
+Don't forget to SUBSCRIBE! We do this for you, and we want to make sure you see our new videos. Plus, we give virtual side-hugs to all new subscribers.
+--------
+Check out our other Youtube channel for even more videos: http://youtube.com/rhettandlink2
+--------
+FOLLOW us on TWITTER!
+Rhett: http://twitter.com/rhettmc
+Link: http://twitter.com/linklamont
+Video Updates: http://twitter.com/rhettandlink
+-------
+FAN us on FACEBOOK!
+http://apps.facebook.com/rhettandlinkyt/
+-------
+DAILYBOOTH
+http://dailybooth.com/rhettmc
+http://dailybooth.com/linklamont
+--------
+Become a MYTHICAL BEAST for exclusive video, creative projects, etc.
+http://rhettandlinkommunity.com 
+--  Distributed by Tubemogul.</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=rPIFXdLaZ4U&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/rPIFXdLaZ4U/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/rPIFXdLaZ4U/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=rPIFXdLaZ4U'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/rPIFXdLaZ4U'/><author><name>RhettandLink</name><uri>http://gdata.youtube.com/feeds/api/users/rhettandlink</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/rPIFXdLaZ4U/comments' countHint='1847'/></gd:comments><media:group><media:category label='Film &amp; Animation' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Film</media:category><media:content url='http://www.youtube.com/v/rPIFXdLaZ4U?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='355' yt:format='5'/><media:content url='rtsp://v5.cache6.c.youtube.com/CiQLENy73wIaGwmFZ9rSXQXyrBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='355' yt:format='1'/><media:content url='rtsp://v3.cache2.c.youtube.com/CiQLENy73wIaGwmFZ9rSXQXyrBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='355' yt:format='6'/><media:description type='plain'>Thanks for watching and subscribing!
+
+Watch the finished commercial! http://www.youtube.com/watch?v=iLoA6BpUWqQ
+
+Thanks to Joe &amp; Billy for lending their amazing talents: SUB them!
+Joe: http://youtube.com/mysteryguitarman
+Billy: http://youtube.com/verytasteful
+
+Background music is from RoyaltyFreeMusicLibrary.com. They have an awesome collection of tracks to fit just about any situation. Get an account at http://www.royaltyfreemusiclibrary.com/
+
+----------------
+Don't forget to SUBSCRIBE! We do this for you, and we want to make sure you see our new videos. Plus, we give virtual side-hugs to all new subscribers.
+--------
+Check out our other Youtube channel for even more videos: http://youtube.com/rhettandlink2
+--------
+FOLLOW us on TWITTER!
+Rhett: http://twitter.com/rhettmc
+Link: http://twitter.com/linklamont
+Video Updates: http://twitter.com/rhettandlink
+-------
+FAN us on FACEBOOK!
+http://apps.facebook.com/rhettandlinkyt/
+-------
+DAILYBOOTH
+http://dailybooth.com/rhettmc
+http://dailybooth.com/linklamont
+--------
+Become a MYTHICAL BEAST for exclusive video, creative projects, etc.
+http://rhettandlinkommunity.com 
+--  Distributed by Tubemogul.</media:description><media:keywords>rhettandlink, tshirtwar, tshirt, t shirt, war, mcdonalds, coke, commercial, TV, mysteryguitarman, verytasteful, stop motion, animation</media:keywords><media:player url='http://www.youtube.com/watch?v=rPIFXdLaZ4U&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/rPIFXdLaZ4U/2.jpg' height='90' width='120' time='00:02:57.500'/><media:thumbnail url='http://i.ytimg.com/vi/rPIFXdLaZ4U/1.jpg' height='90' width='120' time='00:01:28.750'/><media:thumbnail url='http://i.ytimg.com/vi/rPIFXdLaZ4U/3.jpg' height='90' width='120' time='00:04:26.250'/><media:thumbnail url='http://i.ytimg.com/vi/rPIFXdLaZ4U/0.jpg' height='240' width='320' time='00:02:57.500'/><media:title type='plain'>T-Shirt War 2 - Behind-the-Scenes</media:title><yt:duration seconds='355'/></media:group><gd:rating average='4.9701867' max='5' min='1' numRaters='9962' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='2719' viewCount='507644'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/RKCVYKzLsjs</id><published>2010-05-15T07:35:45.000Z</published><updated>2010-07-20T10:45:15.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Music' label='Music'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='JRA'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='JR'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Aquino'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Original'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='By'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Chance'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='You'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='and'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='New'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Exposure'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Acoustic'/><title type='text'>J.R.A. - By Chance (You &amp; I) (NEW ORIGINAL)</title><content type='text'>Lyrics
+Hi
+Girl you just caught my eye
+thought I should give it try
+and get your name &amp; your number
+go grab some lunch &amp; eat cucumbers
+WHY, DID I SAY THAT? 
+I don't know why. 
+But you're smilin' &amp; it's something' i like 
+on your face, yeah it suits you
+girl we connect like we have bluetooth
+
+i don't know why
+I'm drawn to you 
+Could you be the other one so we'd equal two?
+and this is all based on a lucky chance
+that you would rather add then subtract
+
+You &amp; I
+could be like sonny &amp; cher
+honey &amp; bears
+You &amp; I 
+could be like aladdin &amp; jasmine
+lets make it happen
+
+La La's
+
+Hey
+How've you been?
+I know that it's been awhile. 
+Are you tired cause you've been on my mind
+runnin' thousand &amp; thousands of miles
+Sorry, I know that line's outta style
+but you
+you look so beautiful on this starry night
+loving the way the moonlight catches your eyes &amp; your smile
+i'm captivated
+your beauty is timeless never outdated
+
+i don't know why
+I'm drawn to you 
+Could you be the other one so we'd equal two?
+and this is all based on a lucky chance
+that you would rather add then subtract
+
+babe
+its been 5 years since that special day
+when I asked you on our first date
+i guess it's safe to say
+
+Let me say
+you look beautiful on our wedding day
+
+
+Follow me on Twitter for Daily Updates! 
+http://twitter.com/JRAquino
+
+Subscribe to my NEW CHANNEL!
+http://youtube.com/ItsYourBoyJRA
+
+iTunes Download link for Exposure!
+http://itunes.apple.com/us/album/exposure/id351883062
+
+Booking Inquiries to: JRAQUINOMUSIC@GMAIL.COM</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=RKCVYKzLsjs&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/RKCVYKzLsjs/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/RKCVYKzLsjs/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=RKCVYKzLsjs'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/RKCVYKzLsjs'/><author><name>JRAquinomusic</name><uri>http://gdata.youtube.com/feeds/api/users/jraquinomusic</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/RKCVYKzLsjs/comments' countHint='1682'/></gd:comments><media:group><media:category label='Music' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Music</media:category><media:content url='http://www.youtube.com/v/RKCVYKzLsjs?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='260' yt:format='5'/><media:content url='rtsp://v2.cache6.c.youtube.com/CiQLENy73wIaGwk7ssusYJWgRBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='260' yt:format='1'/><media:content url='rtsp://v4.cache6.c.youtube.com/CiQLENy73wIaGwk7ssusYJWgRBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='260' yt:format='6'/><media:description type='plain'>Lyrics
+Hi
+Girl you just caught my eye
+thought I should give it try
+and get your name &amp; your number
+go grab some lunch &amp; eat cucumbers
+WHY, DID I SAY THAT? 
+I don't know why. 
+But you're smilin' &amp; it's something' i like 
+on your face, yeah it suits you
+girl we connect like we have bluetooth
+
+i don't know why
+I'm drawn to you 
+Could you be the other one so we'd equal two?
+and this is all based on a lucky chance
+that you would rather add then subtract
+
+You &amp; I
+could be like sonny &amp; cher
+honey &amp; bears
+You &amp; I 
+could be like aladdin &amp; jasmine
+lets make it happen
+
+La La's
+
+Hey
+How've you been?
+I know that it's been awhile. 
+Are you tired cause you've been on my mind
+runnin' thousand &amp; thousands of miles
+Sorry, I know that line's outta style
+but you
+you look so beautiful on this starry night
+loving the way the moonlight catches your eyes &amp; your smile
+i'm captivated
+your beauty is timeless never outdated
+
+i don't know why
+I'm drawn to you 
+Could you be the other one so we'd equal two?
+and this is all based on a lucky chance
+that you would rather add then subtract
+
+babe
+its been 5 years since that special day
+when I asked you on our first date
+i guess it's safe to say
+
+Let me say
+you look beautiful on our wedding day
+
+
+Follow me on Twitter for Daily Updates! 
+http://twitter.com/JRAquino
+
+Subscribe to my NEW CHANNEL!
+http://youtube.com/ItsYourBoyJRA
+
+iTunes Download link for Exposure!
+http://itunes.apple.com/us/album/exposure/id351883062
+
+Booking Inquiries to: JRAQUINOMUSIC@GMAIL.COM</media:description><media:keywords>JRA, JR, Aquino, Original, By, Chance, You, and, New, Exposure, Acoustic</media:keywords><media:player url='http://www.youtube.com/watch?v=RKCVYKzLsjs&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/RKCVYKzLsjs/2.jpg' height='90' width='120' time='00:02:10'/><media:thumbnail url='http://i.ytimg.com/vi/RKCVYKzLsjs/1.jpg' height='90' width='120' time='00:01:05'/><media:thumbnail url='http://i.ytimg.com/vi/RKCVYKzLsjs/3.jpg' height='90' width='120' time='00:03:15'/><media:thumbnail url='http://i.ytimg.com/vi/RKCVYKzLsjs/0.jpg' height='240' width='320' time='00:02:10'/><media:title type='plain'>J.R.A. - By Chance (You &amp; I) (NEW ORIGINAL)</media:title><yt:duration seconds='260'/></media:group><gd:rating average='4.9745' max='5' min='1' numRaters='6353' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='7549' viewCount='416599'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/xPd4Qp-Pdew</id><published>2010-05-26T22:06:55.000Z</published><updated>2010-07-20T11:31:14.000Z</updated><app:control><yt:state name='restricted' reasonCode='limitedSyndication'>Syndication of this video was restricted by its owner.</yt:state></app:control><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Music' label='Music'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='trey'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='songz'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='keri'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='hilson'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='yo'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='side'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='of'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='the'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='bed'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ready'/><title type='text'>Trey Songz - Yo Side Of The Bed [Official Video]</title><content type='text'>Trey Songz' new video "Yo Side Of The Bed" featuring Keri Hilson! http://www.treysongz.com</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=xPd4Qp-Pdew&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/xPd4Qp-Pdew/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/xPd4Qp-Pdew/related'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/xPd4Qp-Pdew'/><author><name>TreySongzVideos</name><uri>http://gdata.youtube.com/feeds/api/users/treysongzvideos</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/xPd4Qp-Pdew/comments' countHint='4003'/></gd:comments><media:group><media:category label='Music' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Music</media:category><media:content url='http://www.youtube.com/v/xPd4Qp-Pdew?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='302' yt:format='5'/><media:description type='plain'>Trey Songz' new video "Yo Side Of The Bed" featuring Keri Hilson! http://www.treysongz.com</media:description><media:keywords>trey, songz, keri, hilson, yo, side, of, the, bed, ready</media:keywords><media:player url='http://www.youtube.com/watch?v=xPd4Qp-Pdew&amp;feature=youtube_gdata'/><media:restriction type='country' relationship='deny'>DE</media:restriction><media:thumbnail url='http://i.ytimg.com/vi/xPd4Qp-Pdew/2.jpg' height='90' width='120' time='00:02:31'/><media:thumbnail url='http://i.ytimg.com/vi/xPd4Qp-Pdew/1.jpg' height='90' width='120' time='00:01:15.500'/><media:thumbnail url='http://i.ytimg.com/vi/xPd4Qp-Pdew/3.jpg' height='90' width='120' time='00:03:46.500'/><media:thumbnail url='http://i.ytimg.com/vi/xPd4Qp-Pdew/0.jpg' height='240' width='320' time='00:02:31'/><media:title type='plain'>Trey Songz - Yo Side Of The Bed [Official Video]</media:title><yt:duration seconds='302'/></media:group><gd:rating average='4.9808044' max='5' min='1' numRaters='5470' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='8664' viewCount='1141358'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/SEVU-YLpM8A</id><published>2010-03-23T06:07:11.000Z</published><updated>2010-07-20T11:15:26.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Film' label='Film &amp; Animation'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='retro'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='game'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='platform'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dan'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='the'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='man'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='video'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='joho'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='studio'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='studiojoho'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pixel'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='art'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='animation'/><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dantheman'/><title type='text'>DAN the MAN</title><content type='text'>Greedy people deserve each other.
+
+Brought to you by www.studiojoho.com
+email info@studiojoho.com</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=SEVU-YLpM8A&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/SEVU-YLpM8A/responses'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/SEVU-YLpM8A/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=SEVU-YLpM8A'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/SEVU-YLpM8A'/><author><name>studioJOHO</name><uri>http://gdata.youtube.com/feeds/api/users/studiojoho</uri></author><gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/SEVU-YLpM8A/comments' countHint='3137'/></gd:comments><media:group><media:category label='Film &amp; Animation' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Film</media:category><media:content url='http://www.youtube.com/v/SEVU-YLpM8A?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='355' yt:format='5'/><media:content url='rtsp://v7.cache5.c.youtube.com/CiQLENy73wIaGwnAM-mC-VRFSBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='355' yt:format='1'/><media:content url='rtsp://v7.cache4.c.youtube.com/CiQLENy73wIaGwnAM-mC-VRFSBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='355' yt:format='6'/><media:description type='plain'>Greedy people deserve each other.
+
+Brought to you by www.studiojoho.com
+email info@studiojoho.com</media:description><media:keywords>retro, game, platform, dan, the, man, video, joho, studio, studiojoho, pixel, art, animation, dantheman</media:keywords><media:player url='http://www.youtube.com/watch?v=SEVU-YLpM8A&amp;feature=youtube_gdata'/><media:thumbnail url='http://i.ytimg.com/vi/SEVU-YLpM8A/2.jpg' height='90' width='120' time='00:02:57.500'/><media:thumbnail url='http://i.ytimg.com/vi/SEVU-YLpM8A/1.jpg' height='90' width='120' time='00:01:28.750'/><media:thumbnail url='http://i.ytimg.com/vi/SEVU-YLpM8A/3.jpg' height='90' width='120' time='00:04:26.250'/><media:thumbnail url='http://i.ytimg.com/vi/SEVU-YLpM8A/0.jpg' height='240' width='320' time='00:02:57.500'/><media:title type='plain'>DAN the MAN</media:title><yt:duration seconds='355'/></media:group><gd:rating average='4.9695477' max='5' min='1' numRaters='28635' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='37175' viewCount='4508503'/></entry></feed>

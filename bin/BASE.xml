@@ -1,0 +1,939 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:app='http://purl.org/atom/app#'
+	xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/'>
+	<id>http://gdata.youtube.com/feeds/base/standardfeeds/top_rated
+	</id>
+	<updated>2010-07-19T17:23:27.000-07:00
+	</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video' />
+	<title type='text'>Top Rated</title>
+	<logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif
+	</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com/browse?s=tr' />
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+		href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated' />
+	<link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml'
+		href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/batch' />
+	<link rel='self' type='application/atom+xml'
+		href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated?start-index=1&amp;max-results=25' />
+	<link rel='next' type='application/atom+xml'
+		href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated?start-index=26&amp;max-results=25' />
+	<author>
+		<name>YouTube</name>
+		<uri>http://www.youtube.com/</uri>
+	</author>
+	<generator version='2.0' uri='http://gdata.youtube.com/'>YouTube data API
+	</generator>
+	<openSearch:totalResults>100</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+	<entry>
+		<id>http://gdata.youtube.com/feeds/base/videos/JTwJetox_tU
+		</id>
+		<published>2010-03-22T18:06:15.000Z
+		</published>
+		<updated>2010-07-20T11:23:36.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://gdata.youtube.com/schemas/2007#video' />
+		<title type='text'>Chat Roulette Funny Piano Improv #1</title>
+		<content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=JTwJetox_tU&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/JTwJetox_tU/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=JTwJetox_tU&amp;amp;feature=youtube_gdata"&gt;Chat Roulette Funny Piano Improv #1&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Your host, Merton, freestyling in real-time with random strangers on Chat Roulette.
+***********************
+This is a new, edited version of the original Video #1.  I had to make some changes in order for YouTube to be happy with it.
+
+My apologies to all of the subscribers for being summoned here just to see a repeat post, but there was no way around it.
+
+For the record, the original video had 4,238,658 Views.  At the time of its demise, it was the Top-Rated YouTube Video of All Time.  No shit.
+
+I will be posting Video #2 very soon, and thank you all so much for your support.
+***********************&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=PianoChatImprov"&gt;PianoChatImprov&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+5536740&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;69093
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;05:29&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=23"&gt;Comedy&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=JTwJetox_tU&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/JTwJetox_tU'/><author><name>PianoChatImprov</name><uri>http://gdata.youtube.com/feeds/base/users/pianochatimprov</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/5pidokakU4I</id><published>2009-12-10T12:37:58.000Z</published><updated>2010-07-20T11:32:02.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>Axis of Awesome - 4 Four Chord Song (with song titles)</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=5pidokakU4I&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/5pidokakU4I/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=5pidokakU4I&amp;amp;feature=youtube_gdata"&gt;Axis of Awesome - 4 Four Chord Song (with song titles)&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Australian comedy group &amp;#39;Axis Of Awesome&amp;#39; perform a sketch from the 2009 Melbourne International Comedy Festival. Footage courtesy of Network Ten Australia. 
+
+See http://www.axisofawesome.net/ for more details of the comedy trio including Jordan Raskopoulos, Lee Naimo, &amp;amp; Benny Davis.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=random804"&gt;random804&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+5205337&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;44741
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;05:31&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=23"&gt;Comedy&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=5pidokakU4I&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/5pidokakU4I'/><author><name>random804</name><uri>http://gdata.youtube.com/feeds/base/users/random804</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/qciVXUHTN10</id><published>2010-01-19T12:15:55.000Z</published><updated>2010-07-20T11:31:42.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>Beardyman - Live in the Underbelly: The Full show</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=qciVXUHTN10&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/qciVXUHTN10/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=qciVXUHTN10&amp;amp;feature=youtube_gdata"&gt;Beardyman - Live in the Underbelly: The Full show&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Edinburgh Comedy Festival 2009...
+
+I the great and powerless Beardyman did performing a solo shows. The best solo shows in the worlds evergreen. Suggestions were given by the crowd. . i had no script. . . or did I? NO!!!! NO I DIDN&amp;#39;T !!!!!!
+
+...and welcome back. The Bellylaugh isn&amp;#39;t not the name of the room in the underbelly in which i wasn&amp;#39;t not playing. The Underbelly used to be the bank vaults for the bank of Scotland. . that&amp;#39;s why it looks like i&amp;#39;m playing in an air-raid shelter. . . or is it because this is a video from the post-apocolyptic future and actually i&amp;#39;m entertaining the troops. . .you decide. . . 
+
+over and in. . 
+
+Beardyman. . 
+
+or did they?&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=beardyman"&gt;beardyman&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+697774&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;7369
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;58:37&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=23"&gt;Comedy&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=qciVXUHTN10&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/qciVXUHTN10'/><author><name>beardyman</name><uri>http://gdata.youtube.com/feeds/base/users/beardyman</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/HjGrHBpfqCo</id><published>2010-04-01T06:24:34.000Z</published><updated>2010-07-20T10:55:29.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>Team Fortress 2 - Law Abiding Engineer</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=HjGrHBpfqCo&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/HjGrHBpfqCo/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=HjGrHBpfqCo&amp;amp;feature=youtube_gdata"&gt;Team Fortress 2 - Law Abiding Engineer&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;EDIT: Full Quality Version available
+http://www.filefactory.com/file/b0ff51f/n/TF2LAC_avi
+http://ablanknotebook.com/miscfiles/tf2_law_abiding_engineer.avi
+http://www.adkgamers.com/download.php?view.7
+http://www.sendspace.com/file/e02nyp
+***
+I proudly present my biggest animating/compositing project I ever did and now it is partially about TF2. Let&amp;#39;s say, it is for the upcoming engineer update.
+You probably have heard of or seen the &amp;quot;Law abiding citizen&amp;quot; movie (better if not). So what if our tf2 heroes were included in the cast?
+Just imagine: the war is over, everybody has their own lives, engineer sits at home...
+P.S. I FRICKIN HATE that YouTube makes video wider than it really is.
+P.P.S. Started on February 11, finished on March 29&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=TrueOneMoreUser"&gt;TrueOneMoreUser&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+1582303&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;36566
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;02:41&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=1"&gt;Film &amp;amp; Animation&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=HjGrHBpfqCo&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/HjGrHBpfqCo'/><author><name>TrueOneMoreUser</name><uri>http://gdata.youtube.com/feeds/base/users/trueonemoreuser</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/cNvJy0zoXOY</id><published>2010-05-01T02:21:25.000Z</published><updated>2010-07-20T11:35:49.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>Damien Walters 2010</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=cNvJy0zoXOY&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/cNvJy0zoXOY/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=cNvJy0zoXOY&amp;amp;feature=youtube_gdata"&gt;Damien Walters 2010&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Training and new things early in 2010
+
+
+
+
+
+
+
+
+
+Tumbling Gymnastics Freerunning Stunts &amp;quot;Derby City Gymnastics Club&amp;quot; parkour PK l&amp;#39;art du d&amp;eacute;placement traceur traceuse &amp;eacute;quilibre de chat passe muraille L&amp;acirc;ch&amp;eacute; Franchissement underbar cat balance Roulade roll Saut pr&amp;eacute;cision funny&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=damienwalters"&gt;damienwalters&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+4444379&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;30009
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;02:44&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=17"&gt;Sports&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=cNvJy0zoXOY&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/cNvJy0zoXOY'/><author><name>damienwalters</name><uri>http://gdata.youtube.com/feeds/base/users/damienwalters</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/Ikw440dOuVA</id><published>2010-07-18T21:53:21.000Z</published><updated>2010-07-20T11:51:47.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>Hello Internet! (Ep.24)</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=Ikw440dOuVA&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/Ikw440dOuVA/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=Ikw440dOuVA&amp;amp;feature=youtube_gdata"&gt;Hello Internet! (Ep.24)&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Start watching Funemployed!
+http://www.youtube.com/funemployed
+
+Go here to suggest a charity!
+http://www.kevjumba.com/jumbafund/
+
+Follow me on Twitter:
+http://www.twitter.com/kevjumba
+Join my Facebook:
+http://www.facebook.com/kevjumba&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=JumbaFund"&gt;JumbaFund&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+219555&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;14638
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;02:27&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=22"&gt;People &amp;amp; Blogs&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Ikw440dOuVA&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/Ikw440dOuVA'/><author><name>JumbaFund</name><uri>http://gdata.youtube.com/feeds/base/users/jumbafund</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/sY9PeJOZpeA</id><published>2010-05-26T14:50:53.000Z</published><updated>2010-07-20T10:41:53.000Z</updated><app:control/><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>Ozzy Scare at Madame Tussauds Wax Museum</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=sY9PeJOZpeA&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/sY9PeJOZpeA/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=sY9PeJOZpeA&amp;amp;feature=youtube_gdata"&gt;Ozzy Scare at Madame Tussauds Wax Museum&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;In light of Ozzy&amp;#39;s new album &amp;quot;Scream&amp;quot; out 6/22, Ozzy decided to have some fun and make people scream by scaring unsuspecting tourists at the wax museum, Madame Tussauds New York in Times Square. Preorder SCREAM now http://www.ozzy.com/&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=ozzyosbourneTV"&gt;ozzyosbourneTV&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+1999471&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;10795
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;01:23&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=24"&gt;Entertainment&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=sY9PeJOZpeA&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/sY9PeJOZpeA'/><author><name>ozzyosbourneTV</name><uri>http://gdata.youtube.com/feeds/base/users/ozzyosbournetv</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/u6XAPnuFjJc</id><published>2010-04-01T11:42:05.000Z</published><updated>2010-07-20T10:55:32.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>RSA Animate - Drive: The surprising truth about what motivates us</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=u6XAPnuFjJc&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/u6XAPnuFjJc/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=u6XAPnuFjJc&amp;amp;feature=youtube_gdata"&gt;RSA Animate - Drive: The surprising truth about what motivates us&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;This lively RSA Animate, adapted from Dan Pink&amp;#39;s talk at the RSA, illustrates the hidden truths behind what really motivates us at home and in the workplace.
+www.theRSA.org&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=theRSAorg"&gt;theRSAorg&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+2042071&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;17351
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;10:48&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=25"&gt;News &amp;amp; Politics&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=u6XAPnuFjJc&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/u6XAPnuFjJc'/><author><name>theRSAorg</name><uri>http://gdata.youtube.com/feeds/base/users/thersaorg</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/zX09WnGU6ZY</id><published>2010-05-28T00:12:14.000Z</published><updated>2010-07-20T10:53:04.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>Lego Hello World</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=zX09WnGU6ZY&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/zX09WnGU6ZY/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=zX09WnGU6ZY&amp;amp;feature=youtube_gdata"&gt;Lego Hello World&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;&amp;quot;Lego felt tip 110&amp;quot; printer connected to an Apple Mac. This is not mindstorms, I designed/built/coded it all from scratch including analog motor electronics, sensors and printer driver, the USB interface uses a &amp;quot;wiring&amp;quot; board.
+
+FAQ: Track name? &amp;quot;Christopher and Raphael just popper Shinichi Osawa distortion disco edit&amp;quot;
+
+FAQ: How long did this take? Hard to say, maybe 3 weeks working evenings. 
+
+FAQ: You&amp;#39;re a student and this is a university project? I&amp;#39;m not a student, this is just a hobby project.
+
+FAQ: Just a remake of the 1092a? No, I&amp;#39;d never seen the 1092a until now. However some of the parts came from a 8094 kit amongst others many years ago. It is made to my own design, but I acknolwedge influences and the great work of the official lego designers !
+ 
+FAQ: Does this use mindstorms? Nope, wiring demo board + homemade analog electronics and sensors.
+ 
+FAQ: DPI? Dots per inch? Approx 75 DPI
+
+FAQ: PPM? Pages per minute? Not even 1! I sped things up a little in the video editing to keep it interesting to watch :)
+
+FAQ: Helvetica? Yes of course, my respect to those who noticed :)
+
+FAQ: Full color version/more colours? Originally I was going to do 3 colour version, but I had to simplify as only have 4 lego motors.
+
+FAQ: Open source, schematics etc? Yes, I&amp;#39;ll try to get around to this soon. Unfortunately I&amp;#39;m pretty busy at work at moment and documenting this project to a good standard will take a while. Sorry :(
+
+FAQ: Wrote your own driver? Yes, uses standard Mac OS print mechanism.
+
+FAQ: Are&amp;#65279; you using some sort of MCU demo board(the black pcb)? Yes. [1] http://wiring.org.co/hardware/
+
+FAQ: re: Mac vs PC abuse? Video not meant as a Mac advert and I&amp;#39;m sorry if the Apple logo offends anyone. I just find them easier to use.
+
+FAQ: Felt tip damage drying up? Yes this is a problem, but one felt tip usually lasts for quite a few pages.
+
+FAQ: Felt tip auto-capping? Nope, sorry.
+
+FAQ: Sensor info: Horizontal positioning using homemade shaft encoder&amp;#65279; (black/white rotating lego squares you see in the vid) with a SY-CR102 photo reflector from Maplins, (only &amp;pound;0.89 or $1.30). This is into a sampled analog input as I couldn&amp;#39;t get full enough saturation to trigger the ext interrupt pins. There are also push buttons built into lego bricks for left and right end stop detection.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=horseattack"&gt;horseattack&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+2836927&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;21351
+
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;01:27&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/categories_portal?c=28"&gt;Science &amp;amp; Technology&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=zX09WnGU6ZY&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/zX09WnGU6ZY'/><author><name>horseattack</name><uri>http://gdata.youtube.com/feeds/base/users/horseattack</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/d0dE23jVLXw</id><published>2010-04-11T20:51:54.000Z</published><updated>2010-07-20T11:13:02.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>PIXELS by PATRICK JEAN ~FullHD~</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=d0dE23jVLXw&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/d0dE23jVLXw/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=d0dE23jVLXw&amp;amp;feature=youtube_gdata"&gt;PIXELS by PATRICK JEAN ~FullHD~&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;New York invasion by 8-bits creatures !
+PIXELS is Patrick Jean&amp;#39; latest short film, shot on location in New York.
+
+Written, directed by : Patrick Jean
+Director of Photograhy : Matias Boucard
+SFX by Patrick Jean and guests
+Produced by One More Production
+
+www.onemoreprod.com&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=zitofilm"&gt;zitofilm&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+715035&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;6814
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;02:35&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=1"&gt;Film &amp;amp; Animation&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=d0dE23jVLXw&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/d0dE23jVLXw'/><author><name>zitofilm</name><uri>http://gdata.youtube.com/feeds/base/users/zitofilm</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/Lg9qnWg9kak</id><published>2010-04-22T19:55:10.000Z</published><updated>2010-07-20T11:02:47.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>A Tiny Apartment Transforms into 24 Rooms</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=Lg9qnWg9kak&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/Lg9qnWg9kak/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=Lg9qnWg9kak&amp;amp;feature=youtube_gdata"&gt;A Tiny Apartment Transforms into 24 Rooms&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;In Hong Kong, because of the space, apartments are small and expensive. Gary Chang, an architect, decided to design a 344 sq. ft. apartment to be able to change into 24 different designs, all by just sliding panels and walls. He calls this the &amp;quot;Domestic Transformer.&amp;quot;
+
+This video is not owned by me and I do not take any right of it.
+
+Visit us at http://jellywoo.com/ for more news related to tech and just life in general.
+
+Thanks to Lifehacker, OhGizmo, and all the other sites that mentioned this!
+
+Watch this video and many more at World&amp;#39;s Greenest Homes on PlanetGreen.com (http://planetgreen.discovery.com/videos/worlds-greenest-homes/)&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=JellyWoo1014"&gt;JellyWoo1014&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+2997472&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;13107
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;04:04&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=26"&gt;Howto &amp;amp; Style&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Lg9qnWg9kak&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/Lg9qnWg9kak'/><author><name>JellyWoo1014</name><uri>http://gdata.youtube.com/feeds/base/users/jellywoo1014</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/6nQzs48Tt9U</id><published>2010-05-25T15:02:37.000Z</published><updated>2010-07-20T11:22:52.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>Chrono Trigger: Short Action Scene</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=6nQzs48Tt9U&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/6nQzs48Tt9U/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=6nQzs48Tt9U&amp;amp;feature=youtube_gdata"&gt;Chrono Trigger: Short Action Scene&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;The stairs and pallet are made wood from the holly tree, the strongest material known to man. That should clear things up!
+
+CLICK TO RT! http://bit.ly/RTaction
+
+This is how an action scene should look like. No shaky-cam to make up for lack of decent stunts!
+
+Just a short video about what happened between me and some bad guys. If you think about it, the title makes PERFECT SENSE.
+
+The gun flares and smoke and hits are from Video Copilot&amp;#39;s Action Essentials 2 pack: http://www.videocopilot.net/products/action2/
+
+Blood is from our own personal library - red chalk dust on black and composited in.
+
+See the Behind the Scenes: http://www.youtube.com/watch?v=Apw4m0DRQuk
+
+See the Muzzle Flare Tutorial: http://www.youtube.com/watch?v=SsViAvVYoMQ
+
+And finally, check out my 2nd channel, with tutorials and behind the scenes: http://youtube.com/freddiew2&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=freddiew"&gt;freddiew&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+1598866&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;25561
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;01:45&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=24"&gt;Entertainment&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=6nQzs48Tt9U&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/6nQzs48Tt9U'/><author><name>freddiew</name><uri>http://gdata.youtube.com/feeds/base/users/freddiew</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/HvHdJkZYWdo</id><published>2010-06-26T08:52:07.000Z</published><updated>2010-07-20T11:31:57.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>Shane Dawson Painting by Ray Young Chu</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=HvHdJkZYWdo&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/HvHdJkZYWdo/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=HvHdJkZYWdo&amp;amp;feature=youtube_gdata"&gt;Shane Dawson Painting by Ray Young Chu&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;+++ THANKS FOR SUBSCRIBING / SHARING / COMMENTING / FAVORITING!!! +++
+Finally! Shane Dawson painting done! This is a little of how I did it.
+
+http://www.youtube.com/shanedawsontv
+
+QUESTION: 
+What do you like about the paintings?
+
+THANKS FOR COMMENTING!
+
+SUBSCRIBE and stayed tuned for next week when I do another drawing for Brittani and give it away!
+
+ART AND FILM BY:
+Ray Young Chu
+www.youtube.com/rayyoungchu
+
+MUSIC BY:
+http://www.youtube.com/davidchoimusic
+Song Title: XXX
+
+RAY YOUNG CHU Channel:
+http://www.youtube.com/rayyoungchu
+
+RAY YOUNG CHU ON THIS (2nd) Channel:
+http://www.youtube.com/RayYoungChuOnThis
+
+STORE
+http://www.rayyoungchu.spreadshirt.com
+
+FACEBOOK (ADD ME TO KEEP UPDATED!)
+http://www.facebook.com/pages/Ray-Young-Chu/40367069214
+
+WEBSITE
+http://www.rayyoungchu.com
+
+TWITTER
+http://www.twitter.com/rayyoungchu
+
+MYSPACE
+http://www.myspace.com/rayyoungchu
+
+MEDIA / BUSINESS INQUIRIES:
+media@rayyoungchu.com&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=rayyoungchu"&gt;rayyoungchu&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+290370&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;14338
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;03:09&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=26"&gt;Howto &amp;amp; Style&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=HvHdJkZYWdo&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/HvHdJkZYWdo'/><author><name>rayyoungchu</name><uri>http://gdata.youtube.com/feeds/base/users/rayyoungchu</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/uQITWbAaDx0</id><published>2010-05-30T19:23:09.000Z</published><updated>2010-07-20T11:22:37.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>Guillaume Nery base jumping at Dean's Blue Hole, filmed on breath hold by Julie Gautier</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=uQITWbAaDx0&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/uQITWbAaDx0/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=uQITWbAaDx0&amp;amp;feature=youtube_gdata"&gt;Guillaume Nery base jumping at Dean&amp;#39;s Blue Hole, filmed on breath hold by Julie Gautier&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;FREE FALL:  World champion freediver Guillaume Nery special dive at Dean&amp;#39;s Blue Hole, the deepest blue hole in the world filmed entirely on breath hold by the french champion Julie Gautier. This video is a FICTION and an ARTISTIC PROJECT.  Edited by BLUENERY (c). Music: ARCHIVE - you make me feel.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=guillaumenery"&gt;guillaumenery&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+5025856&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;18010
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;04:18&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=17"&gt;Sports&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=uQITWbAaDx0&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/uQITWbAaDx0'/><author><name>guillaumenery</name><uri>http://gdata.youtube.com/feeds/base/users/guillaumenery</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/gaaCq7ELGZk</id><published>2010-04-30T01:24:30.000Z</published><updated>2010-07-20T11:32:33.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>Alpha Kenny Body</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=gaaCq7ELGZk&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/gaaCq7ELGZk/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=gaaCq7ELGZk&amp;amp;feature=youtube_gdata"&gt;Alpha Kenny Body&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;You guys asked for the whole video, so here it is :)
+It took my dad over 5 minutes to understand what it meant, lol wait til the end to see his reaction, haha
+
+Alpha kenny body that subscribes to my channel! (Eww not really, but seriously tho).
+http://youtube.com/subscription_center?add_user=kevjumba
+
+Previous video:
+http://www.youtube.com/watch?v=qlWchMx_S1E
+
+My Second Channel:
+http://youtube.com/jumbafund
+Stalk me plz:
+http://www.twitter.com/kevjumba
+omg, Add me on facebook:
+http://www.facebook.com/kevjumba
+
+Music By David Choi (Subscribe!)
+http://www.youtube.com/davidchoimusic&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=kevjumba"&gt;kevjumba&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+1580708&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;38474
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;02:36&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=24"&gt;Entertainment&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=gaaCq7ELGZk&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/gaaCq7ELGZk'/><author><name>kevjumba</name><uri>http://gdata.youtube.com/feeds/base/users/kevjumba</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/jBvZ8f44Et0</id><published>2009-11-30T21:16:51.000Z</published><updated>2010-07-20T10:27:01.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>Greg Pattillo - Piano/Flute/Beatbox</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=jBvZ8f44Et0&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/jBvZ8f44Et0/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=jBvZ8f44Et0&amp;amp;feature=youtube_gdata"&gt;Greg Pattillo - Piano/Flute/Beatbox&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;http://www.cdbaby.com/cd/projectmusic3 
+http://www.cdbaby.com/cd/projectmusic2
+http://www.cdbaby.com/cd/projectmusic
+http://itunes.apple.com/us/album/project-trio/id350173688
+
+August 12-14 - Anahiem, CA
+National Flute Convention!!!
+Come and see us at the Gemeinhardt Booth!
+
+July 12-29 - Australia
+Melbourne and Sydney - More details to come!!!
+http://www.lowflutes.com/home.html
+http://www.cityrecitalhall.com/events/id/713/Open-Academy-Flute-Festival-2010-Project-Trio-Concert/
+
+August 3-7 - Vienna, VA
+Wolftrap - http://www.wolftrap.org/
+
+August 11 - Jackson Hole, WY
+Grand Teton Music Festival - http://www.gtmf.org/
+
+Fall Concerts - More details to come
+
+Sept 4 - Catskills, NY
+Sept 15-18 - North Florida
+Oct 5-7 - Miami Beach and Daytona
+Oct 16 - NYC - NYU
+Oct 21-24 - MI tour to include Detroit and Interlochen
+Nov 5-9 - Chicago area tour
+Nov 11-24 - GERMANY Nov 11-17...ITALY Nov 18-24!!
+Dec 9-12 - Cleveland and Columbus
+
+www.projecttrio.com
+www.whatisproject.org
+www.pattillostyle.com
+Facebook: http://www.facebook.com/home.php#/group.php?gid=60682244661
+Twitter: whatisproject
+
+
+PROJECT Trio is: 
+Greg Pattillo - Flute 
+Eric Stephenson - Cello
+Peter Seymour - Bass&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=freedomworksfilms"&gt;freedomworksfilms&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+703524&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;7249
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;01:20&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=10"&gt;Music&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=jBvZ8f44Et0&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/jBvZ8f44Et0'/><author><name>freedomworksfilms</name><uri>http://gdata.youtube.com/feeds/base/users/freedomworksfilms</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/-CVYOCMpJRY</id><published>2010-06-27T10:54:53.000Z</published><updated>2010-07-20T10:41:42.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>AT-AT DAY AFTERNOON</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=-CVYOCMpJRY&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/-CVYOCMpJRY/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=-CVYOCMpJRY&amp;amp;feature=youtube_gdata"&gt;AT-AT DAY AFTERNOON&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;When I was a kid, there are two things I wanted badly and never got... A real dog and a Kenner AT-AT Walker.
+Music by Blithe Field
+http://www.myspace.com/swallowoceans
+
+Get some images here
+http://files.me.com/patrickboivin/wm2aib
+
+If you can&amp;#39;t see the video in your country, try this link
+http://www.openfilm.com/videos/at_at_day_afternoon/&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=PatrickBoivin"&gt;PatrickBoivin&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+1371653&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;16470
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;01:05&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=1"&gt;Film &amp;amp; Animation&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=-CVYOCMpJRY&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/-CVYOCMpJRY'/><author><name>PatrickBoivin</name><uri>http://gdata.youtube.com/feeds/base/users/patrickboivin</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/mdSkr9kRBmY</id><published>2010-05-06T10:30:41.000Z</published><updated>2010-07-20T11:31:31.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>paul dateh: top 40 violin mashup</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=mdSkr9kRBmY&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/mdSkr9kRBmY/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=mdSkr9kRBmY&amp;amp;feature=youtube_gdata"&gt;paul dateh: top 40 violin mashup&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;download the mp3 for free at http://pauldateh.com/music
+tweet this video: http://bit.ly/9RFaM2
+
+just for kicks, i made a mashup using some songs from the current itunes top 40 list. hope you enjoy it!
+
+http://pauldateh.com
+violin. vocals. writing. 
+
+please support the artists that originally perform the songs used in this mashup:
+
+lady gaga - telephone
+http://itunes.apple.com/us/album/the-fame-monster/id350699166
+
+ke$ha - blah blah blah
+http://itunes.apple.com/us/album/animal/id344796445
+
+rihanna - rude boy
+http://itunes.apple.com/us/album/rated-r/id340340001
+
+usher - omg
+http://itunes.apple.com/us/album/raymond-v-raymond/id361405193
+
+shout out to joseph vincent for letting me borrow his adapted rude boy lyrics! check him out at http://youtube.com/hoorahjencar&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=pauldateh"&gt;pauldateh&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+904896&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;12488
+
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;04:35&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/categories_portal?c=10"&gt;Music&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=mdSkr9kRBmY&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/mdSkr9kRBmY'/><author><name>pauldateh</name><uri>http://gdata.youtube.com/feeds/base/users/pauldateh</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/hE-ZmwATS8E</id><published>2010-06-29T13:54:27.000Z</published><updated>2010-07-20T10:42:59.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>Cardboard Warfare</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=hE-ZmwATS8E&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/hE-ZmwATS8E/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=hE-ZmwATS8E&amp;amp;feature=youtube_gdata"&gt;Cardboard Warfare&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Vote this bad boy up on reddit! 
+http://www.reddit.com/r/funny/comments/ck8vu/cardboard_weapon_warfare/
+Digg it! http://digg.com/xbox/Cardboard_Warfare_Video
+
+The cardboard video is finally finished!!! This took about a month and a half of planning, making cardboard guns, filming, and editing. Sound, effects, editing, and filming by Clinton Jones, aka, pwnisher.
+
+To make this video you need:
+
+- 254 program crashes
+- 427 manual frames to rotoscope
+- 59 layers of sound effects
+- a BUTTLOAD of cardboard and box cutters
+- and a katamari
+
+Thank you all, for making this video possible! Couldn&amp;#39;t have done it without you guys!
+
+Twitter: http://www.twitter.com/_pwnisher_
+Facebook: http://www.facebook.com/pwnisher1
+
+Special thanks to freddie wong!!! http://www.youtube.com/freddiew
+
+Shoutout to http://www.youtube.com/joeyandzach&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=pwnisher"&gt;pwnisher&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+1032343&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;13131
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;03:34&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=2"&gt;Autos &amp;amp; Vehicles&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=hE-ZmwATS8E&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/hE-ZmwATS8E'/><author><name>pwnisher</name><uri>http://gdata.youtube.com/feeds/base/users/pwnisher</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/-8JsvwUcok0</id><published>2010-07-14T18:45:55.000Z</published><updated>2010-07-20T10:44:50.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>Re: pandarr | Old Spice</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=-8JsvwUcok0&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/-8JsvwUcok0/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=-8JsvwUcok0&amp;amp;feature=youtube_gdata"&gt;Re: pandarr | Old Spice&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Pandarr asked for an answering machine message on Reddit... so I made you one.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=OldSpice"&gt;OldSpice&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+553359&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;5756
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;01:03&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=22"&gt;People &amp;amp; Blogs&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=-8JsvwUcok0&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/-8JsvwUcok0'/><author><name>OldSpice</name><uri>http://gdata.youtube.com/feeds/base/users/oldspice</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/qlWchMx_S1E</id><published>2010-04-24T01:03:06.000Z</published><updated>2010-07-20T11:32:36.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>FITNESS Trainer!</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=qlWchMx_S1E&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/qlWchMx_S1E/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=qlWchMx_S1E&amp;amp;feature=youtube_gdata"&gt;FITNESS Trainer!&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;I asked my viewers what career I should try and what would suit me, and apparently many of you think I should get into porn and prostitution. I&amp;#39;m flattered... but I decide not to.
+Watch as I get my dad into the best physical shape of his life.
+
+Click to watch the FULL Alpha Kenny Body Video:
+http://www.youtube.com/watch?v=gaaCq7ELGZk
+
+My Second Channel:
+http://youtube.com/jumbafund
+Follow me on Twitter:
+http://www.twitter.com/kevjumba
+Join my Facebook:
+http://www.facebook.com/kevjumba
+
+Music by:
+http://www.youtube.com/davidchoimusic&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=kevjumba"&gt;kevjumba&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+1148939&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;30105
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;04:31&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=24"&gt;Entertainment&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=qlWchMx_S1E&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/qlWchMx_S1E'/><author><name>kevjumba</name><uri>http://gdata.youtube.com/feeds/base/users/kevjumba</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/rPIFXdLaZ4U</id><published>2010-05-24T13:34:59.000Z</published><updated>2010-07-20T11:06:18.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>T-Shirt War 2 - Behind-the-Scenes</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=rPIFXdLaZ4U&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/rPIFXdLaZ4U/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=rPIFXdLaZ4U&amp;amp;feature=youtube_gdata"&gt;T-Shirt War 2 - Behind-the-Scenes&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Thanks for watching and subscribing!
+
+Watch the finished commercial! http://www.youtube.com/watch?v=iLoA6BpUWqQ
+
+Thanks to Joe &amp;amp; Billy for lending their amazing talents: SUB them!
+Joe: http://youtube.com/mysteryguitarman
+Billy: http://youtube.com/verytasteful
+
+Background music is from RoyaltyFreeMusicLibrary.com. They have an awesome collection of tracks to fit just about any situation. Get an account at http://www.royaltyfreemusiclibrary.com/
+
+----------------
+Don&amp;#39;t forget to SUBSCRIBE! We do this for you, and we want to make sure you see our new videos. Plus, we give virtual side-hugs to all new subscribers.
+--------
+Check out our other Youtube channel for even more videos: http://youtube.com/rhettandlink2
+--------
+FOLLOW us on TWITTER!
+Rhett: http://twitter.com/rhettmc
+Link: http://twitter.com/linklamont
+Video Updates: http://twitter.com/rhettandlink
+-------
+FAN us on FACEBOOK!
+http://apps.facebook.com/rhettandlinkyt/
+-------
+DAILYBOOTH
+http://dailybooth.com/rhettmc
+http://dailybooth.com/linklamont
+--------
+Become a MYTHICAL BEAST for exclusive video, creative projects, etc.
+http://rhettandlinkommunity.com 
+--  Distributed by Tubemogul.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=RhettandLink"&gt;RhettandLink&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+507644&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;9962
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;05:55&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=1"&gt;Film &amp;amp; Animation&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=rPIFXdLaZ4U&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/rPIFXdLaZ4U'/><author><name>RhettandLink</name><uri>http://gdata.youtube.com/feeds/base/users/rhettandlink</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/RKCVYKzLsjs</id><published>2010-05-15T07:35:45.000Z</published><updated>2010-07-20T10:45:15.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>J.R.A. - By Chance (You &amp; I) (NEW ORIGINAL)</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=RKCVYKzLsjs&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/RKCVYKzLsjs/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=RKCVYKzLsjs&amp;amp;feature=youtube_gdata"&gt;J.R.A. - By Chance (You &amp;amp; I) (NEW ORIGINAL)&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Lyrics
+Hi
+Girl you just caught my eye
+thought I should give it try
+and get your name &amp;amp; your number
+go grab some lunch &amp;amp; eat cucumbers
+WHY, DID I SAY THAT? 
+I don&amp;#39;t know why. 
+But you&amp;#39;re smilin&amp;#39; &amp;amp; it&amp;#39;s something&amp;#39; i like 
+on your face, yeah it suits you
+girl we connect like we have bluetooth
+
+i don&amp;#39;t know why
+I&amp;#39;m drawn to you 
+Could you be the other one so we&amp;#39;d equal two?
+and this is all based on a lucky chance
+that you would rather add then subtract
+
+You &amp;amp; I
+could be like sonny &amp;amp; cher
+honey &amp;amp; bears
+You &amp;amp; I 
+could be like aladdin &amp;amp; jasmine
+lets make it happen
+
+La La&amp;#39;s
+
+Hey
+How&amp;#39;ve you been?
+I know that it&amp;#39;s been awhile. 
+Are you tired cause you&amp;#39;ve been on my mind
+runnin&amp;#39; thousand &amp;amp; thousands of miles
+Sorry, I know that line&amp;#39;s outta style
+but you
+you look so beautiful on this starry night
+loving the way the moonlight catches your eyes &amp;amp; your smile
+i&amp;#39;m captivated
+your beauty is timeless never outdated
+
+i don&amp;#39;t know why
+I&amp;#39;m drawn to you 
+Could you be the other one so we&amp;#39;d equal two?
+and this is all based on a lucky chance
+that you would rather add then subtract
+
+babe
+its been 5 years since that special day
+when I asked you on our first date
+i guess it&amp;#39;s safe to say
+
+Let me say
+you look beautiful on our wedding day
+
+
+Follow me on Twitter for Daily Updates! 
+http://twitter.com/JRAquino
+
+Subscribe to my NEW CHANNEL!
+http://youtube.com/ItsYourBoyJRA
+
+iTunes Download link for Exposure!
+http://itunes.apple.com/us/album/exposure/id351883062
+
+Booking Inquiries to: JRAQUINOMUSIC@GMAIL.COM&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=JRAquinomusic"&gt;JRAquinomusic&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+416599&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;6353
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;04:20&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=10"&gt;Music&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=RKCVYKzLsjs&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/RKCVYKzLsjs'/><author><name>JRAquinomusic</name><uri>http://gdata.youtube.com/feeds/base/users/jraquinomusic</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/xPd4Qp-Pdew</id><published>2010-05-26T22:06:55.000Z</published><updated>2010-07-20T11:31:14.000Z</updated><app:control/><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>Trey Songz - Yo Side Of The Bed [Official Video]</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=xPd4Qp-Pdew&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/xPd4Qp-Pdew/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=xPd4Qp-Pdew&amp;amp;feature=youtube_gdata"&gt;Trey Songz - Yo Side Of The Bed [Official Video]&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Trey Songz&amp;#39; new video &amp;quot;Yo Side Of The Bed&amp;quot; featuring Keri Hilson! http://www.treysongz.com&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=TreySongzVideos"&gt;TreySongzVideos&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+1141358&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;5470
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;05:02&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=10"&gt;Music&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=xPd4Qp-Pdew&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/xPd4Qp-Pdew'/><author><name>TreySongzVideos</name><uri>http://gdata.youtube.com/feeds/base/users/treysongzvideos</uri></author></entry><entry><id>http://gdata.youtube.com/feeds/base/videos/SEVU-YLpM8A</id><published>2010-03-23T06:07:11.000Z</published><updated>2010-07-20T11:15:26.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>DAN the MAN</title><content type='html'>&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=SEVU-YLpM8A&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/SEVU-YLpM8A/2.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=SEVU-YLpM8A&amp;amp;feature=youtube_gdata"&gt;DAN the MAN&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Greedy people deserve each other.
+
+Brought to you by www.studiojoho.com
+email info@studiojoho.com&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=studioJOHO"&gt;studioJOHO&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+4508503&lt;/div&gt;
+
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;28635
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;05:55&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+
+&lt;a href="http://www.youtube.com/categories_portal?c=1"&gt;Film &amp;amp; Animation&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=SEVU-YLpM8A&amp;feature=youtube_gdata'/><link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/base/standardfeeds/top_rated/v/SEVU-YLpM8A'/><author><name>studioJOHO</name><uri>http://gdata.youtube.com/feeds/base/users/studiojoho</uri></author></entry></feed>
